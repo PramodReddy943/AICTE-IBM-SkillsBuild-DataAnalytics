@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+INV-100635,B,Mandalay,Member,Male,Home and lifestyle,88.67,1,4.4335,93.1035,2026-01-01,13:47,Ewallet,88.67,4.761904762,4.4335,7.5
+INV-100535,C,Naypyitaw,Member,Male,Electronic accessories,31.01,4,6.202,130.242,2026-01-01,12:02,Credit card,124.04,4.761904762,6.202,9.3
+INV-100480,B,Mandalay,Normal,Female,Food and beverages,96.09,10,48.045,1008.945,2026-01-01,20:35,Cash,960.9,4.761904762,48.045,7.9
+INV-100633,B,Mandalay,Normal,Female,Sports and travel,94.59,7,33.1065,695.2365,2026-01-01,20:47,Ewallet,662.13,4.761904762,33.1065,5.8
+INV-100373,C,Naypyitaw,Member,Female,Electronic accessories,71.95,10,35.975,755.475,2026-01-01,13:20,Credit card,719.5,4.761904762,35.975,8.5
+INV-100650,A,Yangon,Member,Female,Fashion accessories,17.74,4,3.548,74.508,2026-01-01,12:17,Credit card,70.96,4.761904762,3.548,5.9
+INV-100822,A,Yangon,Normal,Male,Home and lifestyle,63.88,8,25.552,536.592,2026-01-01,15:54,Cash,511.04,4.761904762,25.552,4.9
+INV-100317,A,Yangon,Normal,Female,Food and beverages,49.75,2,4.975,104.475,2026-01-01,19:26,Credit card,99.5,4.761904762,4.975,7.7
+INV-100187,B,Mandalay,Member,Male,Electronic accessories,41.91,9,18.8595,396.0495,2026-01-01,12:53,Ewallet,377.19,4.761904762,18.8595,5.5
+INV-100076,C,Naypyitaw,Member,Female,Food and beverages,34.42,4,6.884,144.564,2026-01-01,11:50,Ewallet,137.68,4.761904762,6.884,8.4
+INV-100987,B,Mandalay,Member,Female,Fashion accessories,73.77,3,11.0655,232.3755,2026-01-01,17:22,Credit card,221.31,4.761904762,11.0655,4.0
+INV-100122,A,Yangon,Normal,Male,Food and beverages,36.64,2,3.664,76.944,2026-01-02,18:16,Cash,73.28,4.761904762,3.664,5.0
+INV-100512,C,Naypyitaw,Normal,Female,Electronic accessories,77.74,3,11.661,244.881,2026-01-02,14:53,Cash,233.22,4.761904762,11.661,9.6
+INV-100765,B,Mandalay,Member,Male,Home and lifestyle,45.9,3,6.885,144.585,2026-01-02,15:00,Ewallet,137.7,4.761904762,6.885,4.6
+INV-100761,A,Yangon,Normal,Female,Home and lifestyle,31.64,5,7.91,166.11,2026-01-02,13:10,Cash,158.2,4.761904762,7.91,9.2
+INV-100683,B,Mandalay,Normal,Female,Sports and travel,64.33,4,12.866,270.186,2026-01-02,12:36,Ewallet,257.32,4.761904762,12.866,8.6
+INV-100105,A,Yangon,Member,Female,Sports and travel,84.31,2,8.431,177.051,2026-01-02,16:56,Cash,168.62,4.761904762,8.431,5.7
+INV-100928,B,Mandalay,Normal,Male,Health and beauty,86.07,6,25.821,542.241,2026-01-02,13:59,Ewallet,516.42,4.761904762,25.821,8.1
+INV-100740,B,Mandalay,Normal,Female,Health and beauty,40.15,4,8.03,168.63,2026-01-02,14:03,Ewallet,160.6,4.761904762,8.03,4.7
+INV-100547,C,Naypyitaw,Normal,Female,Fashion accessories,75.65,8,30.26,635.46,2026-01-02,15:10,Ewallet,605.2,4.761904762,30.26,8.2
+INV-100393,C,Naypyitaw,Normal,Female,Home and lifestyle,70.82,7,24.787,520.527,2026-01-02,13:43,Cash,495.74,4.761904762,24.787,7.1
+INV-100273,C,Naypyitaw,Member,Male,Home and lifestyle,85.06,6,25.518,535.878,2026-01-02,12:53,Cash,510.36,4.761904762,25.518,4.2
+INV-100040,A,Yangon,Normal,Male,Health and beauty,49.81,2,4.981,104.601,2026-01-03,12:37,Cash,99.62,4.761904762,4.981,4.4
+INV-100778,C,Naypyitaw,Member,Female,Sports and travel,72.22,5,18.055,379.155,2026-01-03,10:41,Cash,361.1,4.761904762,18.055,6.1
+INV-100129,B,Mandalay,Member,Female,Food and beverages,41.24,3,6.186,129.906,2026-01-03,16:26,Cash,123.72,4.761904762,6.186,7.0
+INV-100584,B,Mandalay,Normal,Male,Health and beauty,47.29,1,2.3645,49.6545,2026-01-03,11:19,Ewallet,47.29,4.761904762,2.3645,9.2
+INV-100485,C,Naypyitaw,Member,Male,Food and beverages,44.16,4,8.832,185.472,2026-01-03,13:02,Credit card,176.64,4.761904762,8.832,4.3
+INV-100536,C,Naypyitaw,Member,Male,Home and lifestyle,67.34,10,33.67,707.07,2026-01-03,12:19,Ewallet,673.4,4.761904762,33.67,4.2
+INV-100881,C,Naypyitaw,Normal,Male,Health and beauty,99.63,6,29.889,627.669,2026-01-03,19:06,Cash,597.78,4.761904762,29.889,5.1
+INV-100711,B,Mandalay,Member,Male,Home and lifestyle,13.96,3,2.094,43.974,2026-01-03,10:16,Ewallet,41.88,4.761904762,2.094,9.2
+INV-100238,B,Mandalay,Normal,Female,Fashion accessories,75.48,9,33.966,713.286,2026-01-03,14:21,Credit card,679.32,4.761904762,33.966,5.2
+INV-100095,B,Mandalay,Member,Male,Sports and travel,75.9,1,3.795,79.695,2026-01-03,17:39,Ewallet,75.9,4.761904762,3.795,8.2
+INV-100795,C,Naypyitaw,Member,Male,Sports and travel,41.95,5,10.4875,220.2375,2026-01-03,14:31,Ewallet,209.75,4.761904762,10.4875,4.3
+INV-100101,B,Mandalay,Normal,Male,Fashion accessories,90.76,7,31.766,667.086,2026-01-03,20:49,Cash,635.32,4.761904762,31.766,6.9
+INV-100690,A,Yangon,Member,Male,Fashion accessories,24.69,9,11.1105,233.3205,2026-01-03,19:51,Cash,222.21,4.761904762,11.1105,7.9
+INV-100319,A,Yangon,Member,Female,Electronic accessories,45.47,8,18.188,381.948,2026-01-03,17:23,Ewallet,363.76,4.761904762,18.188,5.7
+INV-100203,C,Naypyitaw,Member,Female,Fashion accessories,75.76,9,34.092,715.932,2026-01-03,10:39,Ewallet,681.84,4.761904762,34.092,6.6
+INV-100744,A,Yangon,Member,Male,Home and lifestyle,63.88,6,19.164,402.444,2026-01-03,12:24,Cash,383.28,4.761904762,19.164,9.3
+INV-100335,A,Yangon,Normal,Female,Home and lifestyle,27.39,2,2.739,57.519,2026-01-03,20:37,Credit card,54.78,4.761904762,2.739,8.7
+INV-100833,A,Yangon,Normal,Female,Electronic accessories,52.4,6,15.72,330.12,2026-01-04,20:44,Cash,314.4,4.761904762,15.72,7.2
+INV-100531,C,Naypyitaw,Normal,Male,Home and lifestyle,15.13,4,3.026,63.546,2026-01-04,18:40,Credit card,60.52,4.761904762,3.026,8.3
+INV-100069,C,Naypyitaw,Member,Female,Fashion accessories,46.97,1,2.3485,49.3185,2026-01-04,11:09,Ewallet,46.97,4.761904762,2.3485,8.4
+INV-100484,B,Mandalay,Member,Female,Sports and travel,59.34,5,14.835,311.535,2026-01-04,19:13,Cash,296.7,4.761904762,14.835,6.7
+INV-100283,A,Yangon,Member,Female,Health and beauty,45.32,8,18.128,380.688,2026-01-04,17:58,Ewallet,362.56,4.761904762,18.128,4.9
+INV-100141,A,Yangon,Member,Male,Home and lifestyle,52.91,3,7.9365,166.6665,2026-01-04,17:50,Credit card,158.73,4.761904762,7.9365,8.2
+INV-100767,C,Naypyitaw,Member,Female,Sports and travel,97.94,4,19.588,411.348,2026-01-04,14:27,Cash,391.76,4.761904762,19.588,4.6
+INV-100353,A,Yangon,Normal,Male,Sports and travel,34.33,7,12.0155,252.3255,2026-01-04,19:09,Ewallet,240.31,4.761904762,12.0155,7.2
+INV-100956,B,Mandalay,Normal,Male,Sports and travel,22.34,9,10.053,211.113,2026-01-04,17:15,Ewallet,201.06,4.761904762,10.053,7.0
+INV-100590,A,Yangon,Normal,Male,Home and lifestyle,83.15,2,8.315,174.615,2026-01-04,15:37,Ewallet,166.3,4.761904762,8.315,7.5
+INV-100077,A,Yangon,Normal,Female,Food and beverages,27.14,4,5.428,113.988,2026-01-04,15:43,Credit card,108.56,4.761904762,5.428,4.5
+INV-100827,B,Mandalay,Normal,Female,Health and beauty,35.68,6,10.704,224.784,2026-01-05,14:06,Cash,214.08,4.761904762,10.704,8.6
+INV-100235,C,Naypyitaw,Member,Male,Home and lifestyle,97.95,2,9.795,205.695,2026-01-05,13:28,Credit card,195.9,4.761904762,9.795,6.4
+INV-100315,C,Naypyitaw,Normal,Female,Food and beverages,14.61,1,0.7305,15.3405,2026-01-05,15:47,Cash,14.61,4.761904762,0.7305,7.4
+INV-100929,A,Yangon,Member,Female,Health and beauty,26.43,2,2.643,55.503,2026-01-05,11:53,Ewallet,52.86,4.761904762,2.643,8.1
+INV-100934,A,Yangon,Normal,Male,Electronic accessories,53.71,9,24.1695,507.5595,2026-01-05,18:05,Credit card,483.39,4.761904762,24.1695,7.7
+INV-100947,C,Naypyitaw,Member,Female,Home and lifestyle,71.36,7,24.976,524.496,2026-01-05,12:52,Cash,499.52,4.761904762,24.976,4.1
+INV-100345,B,Mandalay,Member,Male,Sports and travel,84.26,7,29.491,619.311,2026-01-05,17:16,Cash,589.82,4.761904762,29.491,5.5
+INV-100454,A,Yangon,Member,Male,Health and beauty,69.5,3,10.425,218.925,2026-01-05,16:12,Credit card,208.5,4.761904762,10.425,8.6
+INV-100192,C,Naypyitaw,Member,Male,Fashion accessories,45.53,2,4.553,95.613,2026-01-05,17:35,Cash,91.06,4.761904762,4.553,8.2
+INV-100701,A,Yangon,Member,Male,Sports and travel,55.46,10,27.73,582.33,2026-01-05,14:17,Ewallet,554.6,4.761904762,27.73,5.4
+INV-100591,B,Mandalay,Normal,Male,Food and beverages,94.55,9,42.5475,893.4975,2026-01-06,19:51,Ewallet,850.95,4.761904762,42.5475,7.0
+INV-100772,A,Yangon,Normal,Male,Electronic accessories,47.76,7,16.716,351.036,2026-01-06,15:58,Credit card,334.32,4.761904762,16.716,7.2
+INV-100877,B,Mandalay,Normal,Female,Health and beauty,60.76,5,15.19,318.99,2026-01-06,19:19,Cash,303.8,4.761904762,15.19,5.4
+INV-100189,A,Yangon,Normal,Male,Sports and travel,70.76,7,24.766,520.086,2026-01-06,17:20,Ewallet,495.32,4.761904762,24.766,8.1
+INV-100658,B,Mandalay,Member,Female,Fashion accessories,63.89,10,31.945,670.845,2026-01-06,16:05,Ewallet,638.9,4.761904762,31.945,9.8
+INV-100945,A,Yangon,Normal,Female,Food and beverages,72.06,2,7.206,151.326,2026-01-06,13:25,Cash,144.12,4.761904762,7.206,8.9
+INV-100294,A,Yangon,Normal,Female,Electronic accessories,34.74,4,6.948,145.908,2026-01-06,14:41,Ewallet,138.96,4.761904762,6.948,8.4
+INV-100986,C,Naypyitaw,Normal,Female,Food and beverages,84.58,3,12.687,266.427,2026-01-06,17:44,Cash,253.74,4.761904762,12.687,9.2
+INV-100572,B,Mandalay,Normal,Female,Health and beauty,43.97,1,2.1985,46.1685,2026-01-06,17:39,Credit card,43.97,4.761904762,2.1985,9.2
+INV-100581,C,Naypyitaw,Member,Male,Health and beauty,46.02,10,23.01,483.21,2026-01-07,12:29,Credit card,460.2,4.761904762,23.01,5.6
+INV-100634,A,Yangon,Normal,Male,Health and beauty,21.18,5,5.295,111.195,2026-01-07,14:56,Cash,105.9,4.761904762,5.295,4.2
+INV-100713,B,Mandalay,Member,Female,Sports and travel,58.66,6,17.598,369.558,2026-01-07,18:05,Credit card,351.96,4.761904762,17.598,6.6
+INV-100686,B,Mandalay,Normal,Female,Home and lifestyle,30.39,2,3.039,63.819,2026-01-07,13:10,Cash,60.78,4.761904762,3.039,5.2
+INV-100578,B,Mandalay,Normal,Female,Health and beauty,99.7,2,9.97,209.37,2026-01-07,20:59,Ewallet,199.4,4.761904762,9.97,4.0
+INV-100286,B,Mandalay,Member,Male,Health and beauty,11.02,1,0.551,11.571,2026-01-07,15:03,Ewallet,11.02,4.761904762,0.551,5.1
+INV-100218,B,Mandalay,Normal,Male,Sports and travel,23.16,10,11.58,243.18,2026-01-07,14:23,Cash,231.6,4.761904762,11.58,8.8
+INV-100559,B,Mandalay,Normal,Female,Sports and travel,78.91,6,23.673,497.133,2026-01-07,18:21,Ewallet,473.46,4.761904762,23.673,5.5
+INV-100554,C,Naypyitaw,Member,Female,Electronic accessories,42.24,2,4.224,88.704,2026-01-07,19:49,Ewallet,84.48,4.761904762,4.224,6.3
+INV-100064,A,Yangon,Member,Female,Health and beauty,78.06,6,23.418,491.778,2026-01-07,14:42,Cash,468.36,4.761904762,23.418,9.1
+INV-100472,A,Yangon,Normal,Male,Sports and travel,20.63,2,2.063,43.323,2026-01-07,17:47,Credit card,41.26,4.761904762,2.063,9.1
+INV-100839,B,Mandalay,Member,Female,Home and lifestyle,90.6,10,45.3,951.3,2026-01-07,16:36,Ewallet,906.0,4.761904762,45.3,6.0
+INV-100801,A,Yangon,Normal,Male,Sports and travel,61.75,10,30.875,648.375,2026-01-07,12:39,Ewallet,617.5,4.761904762,30.875,9.0
+INV-100387,A,Yangon,Member,Male,Electronic accessories,19.25,5,4.8125,101.0625,2026-01-08,14:33,Credit card,96.25,4.761904762,4.8125,8.0
+INV-100732,B,Mandalay,Normal,Female,Home and lifestyle,16.9,3,2.535,53.235,2026-01-08,13:31,Ewallet,50.7,4.761904762,2.535,5.9
+INV-100722,A,Yangon,Member,Male,Health and beauty,21.08,9,9.486,199.206,2026-01-08,10:46,Cash,189.72,4.761904762,9.486,8.8
+INV-100278,C,Naypyitaw,Member,Male,Health and beauty,93.29,5,23.3225,489.7725,2026-01-08,20:20,Ewallet,466.45,4.761904762,23.3225,9.1
+INV-100825,C,Naypyitaw,Normal,Male,Sports and travel,10.58,4,2.116,44.436,2026-01-08,13:06,Credit card,42.32,4.761904762,2.116,8.0
+INV-100183,C,Naypyitaw,Normal,Female,Home and lifestyle,65.0,1,3.25,68.25,2026-01-08,17:47,Ewallet,65.0,4.761904762,3.25,9.7
+INV-100136,B,Mandalay,Normal,Female,Electronic accessories,32.73,6,9.819,206.199,2026-01-08,14:34,Cash,196.38,4.761904762,9.819,8.3
+INV-100988,A,Yangon,Member,Male,Electronic accessories,19.48,6,5.844,122.724,2026-01-08,17:15,Credit card,116.88,4.761904762,5.844,4.2
+INV-100202,A,Yangon,Member,Female,Sports and travel,55.17,6,16.551,347.571,2026-01-08,20:13,Cash,331.02,4.761904762,16.551,6.5
+INV-100579,A,Yangon,Normal,Male,Fashion accessories,50.61,5,12.6525,265.7025,2026-01-08,18:28,Cash,253.05,4.761904762,12.6525,4.1
+INV-100120,C,Naypyitaw,Normal,Male,Health and beauty,25.51,1,1.2755,26.7855,2026-01-09,17:55,Ewallet,25.51,4.761904762,1.2755,7.3
+INV-100355,B,Mandalay,Normal,Female,Fashion accessories,99.23,8,39.692,833.532,2026-01-09,17:27,Ewallet,793.84,4.761904762,39.692,8.9
+INV-100937,C,Naypyitaw,Normal,Male,Electronic accessories,38.49,3,5.7735,121.2435,2026-01-09,10:47,Ewallet,115.47,4.761904762,5.7735,4.1
+INV-100926,A,Yangon,Normal,Male,Fashion accessories,77.54,2,7.754,162.834,2026-01-09,13:19,Cash,155.08,4.761904762,7.754,6.2
+INV-100609,C,Naypyitaw,Normal,Female,Sports and travel,61.87,10,30.935,649.635,2026-01-09,10:49,Cash,618.7,4.761904762,30.935,6.8
+INV-100392,B,Mandalay,Member,Female,Home and lifestyle,39.16,9,17.622,370.062,2026-01-09,19:44,Ewallet,352.44,4.761904762,17.622,8.5
+INV-100176,C,Naypyitaw,Normal,Female,Electronic accessories,69.49,3,10.4235,218.8935,2026-01-09,20:31,Cash,208.47,4.761904762,10.4235,4.4
+INV-100096,B,Mandalay,Member,Male,Health and beauty,69.21,5,17.3025,363.3525,2026-01-09,16:12,Cash,346.05,4.761904762,17.3025,8.0
+INV-100243,B,Mandalay,Normal,Male,Fashion accessories,45.98,2,4.598,96.558,2026-01-09,10:47,Credit card,91.96,4.761904762,4.598,5.7
+INV-100177,B,Mandalay,Member,Male,Food and beverages,16.9,1,0.845,17.745,2026-01-09,19:29,Cash,16.9,4.761904762,0.845,6.1
+INV-100863,B,Mandalay,Normal,Male,Fashion accessories,56.58,3,8.487,178.227,2026-01-09,14:09,Ewallet,169.74,4.761904762,8.487,4.0
+INV-100417,A,Yangon,Member,Female,Fashion accessories,51.83,6,15.549,326.529,2026-01-09,15:42,Credit card,310.98,4.761904762,15.549,5.8
+INV-100997,A,Yangon,Member,Female,Health and beauty,89.69,4,17.938,376.698,2026-01-10,17:42,Cash,358.76,4.761904762,17.938,5.0
+INV-100670,A,Yangon,Member,Male,Food and beverages,84.25,3,12.6375,265.3875,2026-01-10,14:26,Ewallet,252.75,4.761904762,12.6375,8.6
+INV-100299,A,Yangon,Normal,Female,Electronic accessories,59.43,8,23.772,499.212,2026-01-10,20:23,Ewallet,475.44,4.761904762,23.772,8.3
+INV-100856,A,Yangon,Normal,Female,Health and beauty,59.91,3,8.9865,188.7165,2026-01-10,12:41,Ewallet,179.73,4.761904762,8.9865,8.3
+INV-100312,A,Yangon,Normal,Female,Home and lifestyle,17.51,2,1.751,36.771,2026-01-10,14:38,Credit card,35.02,4.761904762,1.751,4.4
+INV-100944,A,Yangon,Normal,Male,Fashion accessories,23.19,9,10.4355,219.1455,2026-01-10,13:31,Cash,208.71,4.761904762,10.4355,8.4
+INV-100774,C,Naypyitaw,Normal,Male,Fashion accessories,84.85,5,21.2125,445.4625,2026-01-10,10:21,Ewallet,424.25,4.761904762,21.2125,5.5
+INV-100726,A,Yangon,Normal,Female,Health and beauty,98.96,2,9.896,207.816,2026-01-10,19:26,Credit card,197.92,4.761904762,9.896,7.9
+INV-100940,A,Yangon,Member,Female,Food and beverages,37.19,5,9.2975,195.2475,2026-01-10,16:12,Cash,185.95,4.761904762,9.2975,4.5
+INV-100798,C,Naypyitaw,Member,Male,Food and beverages,47.61,9,21.4245,449.9145,2026-01-10,16:27,Ewallet,428.49,4.761904762,21.4245,5.0
+INV-100463,B,Mandalay,Normal,Male,Sports and travel,22.1,6,6.63,139.23,2026-01-10,13:51,Ewallet,132.6,4.761904762,6.63,7.9
+INV-100894,B,Mandalay,Normal,Female,Home and lifestyle,31.49,4,6.298,132.258,2026-01-10,16:04,Credit card,125.96,4.761904762,6.298,4.8
+INV-100163,B,Mandalay,Normal,Male,Health and beauty,12.94,8,5.176,108.696,2026-01-10,16:08,Cash,103.52,4.761904762,5.176,8.0
+INV-100261,C,Naypyitaw,Normal,Male,Sports and travel,47.59,3,7.1385,149.9085,2026-01-10,12:56,Cash,142.77,4.761904762,7.1385,6.6
+INV-100035,C,Naypyitaw,Normal,Female,Sports and travel,65.98,10,32.99,692.79,2026-01-10,17:48,Ewallet,659.8,4.761904762,32.99,5.6
+INV-100791,B,Mandalay,Normal,Male,Home and lifestyle,89.08,8,35.632,748.272,2026-01-11,19:46,Ewallet,712.64,4.761904762,35.632,4.1
+INV-100523,C,Naypyitaw,Member,Female,Home and lifestyle,27.64,5,6.91,145.11,2026-01-11,12:42,Ewallet,138.2,4.761904762,6.91,9.1
+INV-100004,A,Yangon,Normal,Female,Food and beverages,79.47,3,11.9205,250.3305,2026-01-11,19:27,Ewallet,238.41,4.761904762,11.9205,7.6
+INV-100630,C,Naypyitaw,Normal,Male,Food and beverages,84.5,4,16.9,354.9,2026-01-11,12:35,Cash,338.0,4.761904762,16.9,5.5
+INV-100594,C,Naypyitaw,Normal,Female,Sports and travel,23.61,6,7.083,148.743,2026-01-11,15:14,Cash,141.66,4.761904762,7.083,4.5
+INV-100917,C,Naypyitaw,Normal,Male,Sports and travel,68.01,1,3.4005,71.4105,2026-01-11,19:56,Cash,68.01,4.761904762,3.4005,7.1
+INV-100753,A,Yangon,Member,Female,Home and lifestyle,59.17,4,11.834,248.514,2026-01-11,11:31,Ewallet,236.68,4.761904762,11.834,9.5
+INV-100150,C,Naypyitaw,Normal,Female,Electronic accessories,85.6,10,42.8,898.8,2026-01-11,18:33,Ewallet,856.0,4.761904762,42.8,7.3
+INV-100739,B,Mandalay,Member,Female,Food and beverages,12.16,4,2.432,51.072,2026-01-11,17:42,Ewallet,48.64,4.761904762,2.432,9.5
+INV-100282,B,Mandalay,Normal,Female,Home and lifestyle,61.6,8,24.64,517.44,2026-01-12,20:56,Cash,492.8,4.761904762,24.64,6.5
+INV-100643,A,Yangon,Normal,Male,Food and beverages,94.14,9,42.363,889.623,2026-01-12,11:55,Credit card,847.26,4.761904762,42.363,4.3
+INV-100149,A,Yangon,Normal,Male,Health and beauty,53.34,9,24.003,504.063,2026-01-12,11:56,Ewallet,480.06,4.761904762,24.003,6.7
+INV-100236,A,Yangon,Normal,Male,Fashion accessories,96.82,1,4.841,101.661,2026-01-12,15:36,Ewallet,96.82,4.761904762,4.841,5.8
+INV-100999,B,Mandalay,Member,Male,Food and beverages,96.43,7,33.7505,708.7605,2026-01-12,12:04,Cash,675.01,4.761904762,33.7505,5.2
+INV-100819,A,Yangon,Member,Female,Health and beauty,21.97,7,7.6895,161.4795,2026-01-12,15:50,Credit card,153.79,4.761904762,7.6895,9.4
+INV-100092,C,Naypyitaw,Normal,Female,Health and beauty,59.15,8,23.66,496.86,2026-01-12,19:20,Ewallet,473.2,4.761904762,23.66,6.0
+INV-100020,B,Mandalay,Normal,Male,Electronic accessories,93.9,6,28.17,591.57,2026-01-12,12:04,Ewallet,563.4,4.761904762,28.17,5.3
+INV-100800,C,Naypyitaw,Normal,Male,Home and lifestyle,63.38,5,15.845,332.745,2026-01-12,19:38,Credit card,316.9,4.761904762,15.845,6.6
+INV-100048,B,Mandalay,Normal,Male,Home and lifestyle,15.56,9,7.002,147.042,2026-01-13,12:00,Cash,140.04,4.761904762,7.002,7.1
+INV-100104,C,Naypyitaw,Normal,Male,Fashion accessories,10.97,10,5.485,115.185,2026-01-13,19:48,Cash,109.7,4.761904762,5.485,4.2
+INV-100232,B,Mandalay,Member,Male,Electronic accessories,13.53,3,2.0295,42.6195,2026-01-13,18:33,Cash,40.59,4.761904762,2.0295,4.1
+INV-100462,C,Naypyitaw,Member,Male,Home and lifestyle,40.81,5,10.2025,214.2525,2026-01-13,19:35,Credit card,204.05,4.761904762,10.2025,9.6
+INV-100768,B,Mandalay,Member,Female,Health and beauty,26.26,4,5.252,110.292,2026-01-13,18:52,Ewallet,105.04,4.761904762,5.252,4.1
+INV-100444,C,Naypyitaw,Normal,Female,Sports and travel,72.74,7,25.459,534.639,2026-01-13,19:30,Ewallet,509.18,4.761904762,25.459,6.9
+INV-100727,C,Naypyitaw,Normal,Female,Fashion accessories,71.52,1,3.576,75.096,2026-01-13,20:28,Cash,71.52,4.761904762,3.576,6.7
+INV-100478,C,Naypyitaw,Normal,Female,Health and beauty,58.57,2,5.857,122.997,2026-01-13,13:14,Cash,117.14,4.761904762,5.857,8.3
+INV-100433,A,Yangon,Normal,Female,Sports and travel,54.98,10,27.49,577.29,2026-01-13,14:36,Cash,549.8,4.761904762,27.49,9.1
+INV-100544,B,Mandalay,Normal,Female,Food and beverages,90.72,8,36.288,762.048,2026-01-13,10:39,Cash,725.76,4.761904762,36.288,9.4
+INV-100161,B,Mandalay,Member,Male,Fashion accessories,71.48,6,21.444,450.324,2026-01-14,12:53,Credit card,428.88,4.761904762,21.444,7.6
+INV-100016,A,Yangon,Member,Female,Food and beverages,41.02,6,12.306,258.426,2026-01-14,17:03,Ewallet,246.12,4.761904762,12.306,6.1
+INV-100898,A,Yangon,Member,Female,Home and lifestyle,46.92,2,4.692,98.532,2026-01-14,17:31,Ewallet,93.84,4.761904762,4.692,8.7
+INV-100889,A,Yangon,Normal,Male,Home and lifestyle,29.84,9,13.428,281.988,2026-01-14,17:29,Cash,268.56,4.761904762,13.428,4.9
+INV-100401,C,Naypyitaw,Member,Female,Food and beverages,30.34,8,12.136,254.856,2026-01-14,13:36,Ewallet,242.72,4.761904762,12.136,6.3
+INV-100254,A,Yangon,Normal,Male,Fashion accessories,65.99,4,13.198,277.158,2026-01-14,19:49,Ewallet,263.96,4.761904762,13.198,9.1
+INV-100348,B,Mandalay,Normal,Male,Electronic accessories,45.69,8,18.276,383.796,2026-01-14,16:04,Ewallet,365.52,4.761904762,18.276,4.9
+INV-100654,B,Mandalay,Member,Male,Home and lifestyle,49.54,5,12.385,260.085,2026-01-14,12:14,Ewallet,247.7,4.761904762,12.385,5.9
+INV-100338,B,Mandalay,Member,Female,Fashion accessories,89.66,3,13.449,282.429,2026-01-15,18:09,Credit card,268.98,4.761904762,13.449,7.4
+INV-100560,C,Naypyitaw,Member,Male,Food and beverages,73.12,2,7.312,153.552,2026-01-15,17:27,Ewallet,146.24,4.761904762,7.312,4.1
+INV-100323,A,Yangon,Member,Female,Electronic accessories,82.41,7,28.8435,605.7135,2026-01-15,10:07,Credit card,576.87,4.761904762,28.8435,7.6
+INV-100806,C,Naypyitaw,Normal,Male,Health and beauty,28.89,3,4.3335,91.0035,2026-01-15,10:11,Credit card,86.67,4.761904762,4.3335,9.9
+INV-100611,C,Naypyitaw,Normal,Female,Health and beauty,82.19,7,28.7665,604.0965,2026-01-15,17:07,Credit card,575.33,4.761904762,28.7665,5.7
+INV-100857,B,Mandalay,Member,Female,Health and beauty,62.86,5,15.715,330.015,2026-01-15,17:02,Cash,314.3,4.761904762,15.715,6.9
+INV-100430,A,Yangon,Member,Male,Food and beverages,90.05,3,13.5075,283.6575,2026-01-15,16:36,Ewallet,270.15,4.761904762,13.5075,4.1
+INV-100632,B,Mandalay,Normal,Female,Food and beverages,34.91,5,8.7275,183.2775,2026-01-15,12:36,Ewallet,174.55,4.761904762,8.7275,6.8
+INV-100841,B,Mandalay,Member,Male,Fashion accessories,12.03,3,1.8045,37.8945,2026-01-16,16:22,Credit card,36.09,4.761904762,1.8045,7.3
+INV-100263,B,Mandalay,Member,Female,Health and beauty,90.73,9,40.8285,857.3985,2026-01-16,17:53,Ewallet,816.57,4.761904762,40.8285,4.8
+INV-100214,C,Naypyitaw,Normal,Male,Electronic accessories,70.9,7,24.815,521.115,2026-01-16,15:34,Credit card,496.3,4.761904762,24.815,5.8
+INV-100084,A,Yangon,Normal,Male,Fashion accessories,57.78,6,17.334,364.014,2026-01-16,12:28,Ewallet,346.68,4.761904762,17.334,9.6
+INV-100225,A,Yangon,Normal,Female,Electronic accessories,32.58,7,11.403,239.463,2026-01-16,12:01,Credit card,228.06,4.761904762,11.403,7.6
+INV-100493,A,Yangon,Member,Female,Home and lifestyle,98.76,5,24.69,518.49,2026-01-16,18:34,Ewallet,493.8,4.761904762,24.69,4.4
+INV-100228,C,Naypyitaw,Normal,Female,Health and beauty,56.22,7,19.677,413.217,2026-01-16,14:43,Credit card,393.54,4.761904762,19.677,4.3
+INV-100098,A,Yangon,Normal,Male,Food and beverages,83.81,10,41.905,880.005,2026-01-16,17:57,Cash,838.1,4.761904762,41.905,8.5
+INV-100300,A,Yangon,Member,Male,Home and lifestyle,14.55,10,7.275,152.775,2026-01-16,10:16,Credit card,145.5,4.761904762,7.275,4.7
+INV-100600,A,Yangon,Member,Male,Home and lifestyle,21.4,10,10.7,224.7,2026-01-16,20:15,Cash,214.0,4.761904762,10.7,9.0
+INV-100552,B,Mandalay,Normal,Male,Fashion accessories,73.09,1,3.6545,76.7445,2026-01-16,19:43,Ewallet,73.09,4.761904762,3.6545,6.2
+INV-100018,B,Mandalay,Normal,Female,Food and beverages,96.44,7,33.754,708.834,2026-01-16,15:41,Ewallet,675.08,4.761904762,33.754,9.7
+INV-100911,A,Yangon,Normal,Female,Home and lifestyle,75.56,3,11.334,238.014,2026-01-16,19:33,Credit card,226.68,4.761904762,11.334,7.9
+INV-100899,A,Yangon,Normal,Female,Sports and travel,28.85,10,14.425,302.925,2026-01-16,15:48,Credit card,288.5,4.761904762,14.425,7.3
+INV-100966,C,Naypyitaw,Member,Male,Sports and travel,73.38,10,36.69,770.49,2026-01-16,20:16,Credit card,733.8,4.761904762,36.69,5.8
+INV-100674,B,Mandalay,Normal,Male,Health and beauty,47.23,5,11.8075,247.9575,2026-01-17,19:31,Credit card,236.15,4.761904762,11.8075,4.5
+INV-100249,C,Naypyitaw,Normal,Female,Health and beauty,69.29,7,24.2515,509.2815,2026-01-17,18:12,Credit card,485.03,4.761904762,24.2515,5.8
+INV-100126,C,Naypyitaw,Member,Male,Home and lifestyle,33.34,10,16.67,350.07,2026-01-17,18:00,Ewallet,333.4,4.761904762,16.67,4.4
+INV-100540,C,Naypyitaw,Normal,Male,Sports and travel,71.97,7,25.1895,528.9795,2026-01-17,20:02,Credit card,503.79,4.761904762,25.1895,8.8
+INV-100802,B,Mandalay,Member,Male,Health and beauty,24.52,9,11.034,231.714,2026-01-17,14:41,Ewallet,220.68,4.761904762,11.034,9.6
+INV-100842,A,Yangon,Member,Male,Food and beverages,87.46,9,39.357,826.497,2026-01-17,17:56,Credit card,787.14,4.761904762,39.357,4.4
+INV-100438,C,Naypyitaw,Member,Male,Electronic accessories,92.46,6,27.738,582.498,2026-01-17,12:07,Credit card,554.76,4.761904762,27.738,6.9
+INV-100180,B,Mandalay,Normal,Female,Fashion accessories,46.25,6,13.875,291.375,2026-01-17,16:21,Credit card,277.5,4.761904762,13.875,8.9
+INV-100585,A,Yangon,Member,Male,Electronic accessories,44.82,8,17.928,376.488,2026-01-17,18:37,Ewallet,358.56,4.761904762,17.928,9.5
+INV-100754,A,Yangon,Normal,Male,Food and beverages,52.71,10,26.355,553.455,2026-01-17,14:00,Credit card,527.1,4.761904762,26.355,5.8
+INV-100595,B,Mandalay,Normal,Male,Fashion accessories,52.92,3,7.938,166.698,2026-01-17,12:58,Credit card,158.76,4.761904762,7.938,8.1
+INV-100861,B,Mandalay,Normal,Female,Electronic accessories,17.89,1,0.8945,18.7845,2026-01-17,16:16,Cash,17.89,4.761904762,0.8945,8.6
+INV-100230,C,Naypyitaw,Normal,Male,Sports and travel,61.52,7,21.532,452.172,2026-01-17,20:58,Cash,430.64,4.761904762,21.532,9.3
+INV-100517,C,Naypyitaw,Normal,Female,Electronic accessories,26.78,10,13.39,281.19,2026-01-17,14:03,Ewallet,267.8,4.761904762,13.39,9.1
+INV-100508,C,Naypyitaw,Normal,Male,Health and beauty,21.54,7,7.539,158.319,2026-01-18,13:34,Ewallet,150.78,4.761904762,7.539,6.3
+INV-100426,B,Mandalay,Member,Female,Sports and travel,36.6,7,12.81,269.01,2026-01-18,20:23,Ewallet,256.2,4.761904762,12.81,5.1
+INV-100212,B,Mandalay,Member,Female,Fashion accessories,77.64,6,23.292,489.132,2026-01-18,14:45,Cash,465.84,4.761904762,23.292,6.3
+INV-100503,C,Naypyitaw,Member,Male,Health and beauty,70.46,6,21.138,443.898,2026-01-18,14:31,Ewallet,422.76,4.761904762,21.138,6.8
+INV-100061,A,Yangon,Normal,Male,Sports and travel,61.95,9,27.8775,585.4275,2026-01-18,14:07,Cash,557.55,4.761904762,27.8775,9.2
+INV-100516,B,Mandalay,Normal,Female,Fashion accessories,65.66,3,9.849,206.829,2026-01-18,11:34,Cash,196.98,4.761904762,9.849,9.4
+INV-100195,B,Mandalay,Normal,Female,Fashion accessories,84.37,3,12.6555,265.7655,2026-01-18,14:07,Credit card,253.11,4.761904762,12.6555,5.6
+INV-100553,B,Mandalay,Normal,Male,Sports and travel,60.03,5,15.0075,315.1575,2026-01-18,16:47,Cash,300.15,4.761904762,15.0075,8.1
+INV-100981,C,Naypyitaw,Normal,Female,Electronic accessories,74.76,2,7.476,156.996,2026-01-18,11:29,Ewallet,149.52,4.761904762,7.476,5.1
+INV-100602,A,Yangon,Member,Male,Sports and travel,24.62,2,2.462,51.702,2026-01-18,19:18,Cash,49.24,4.761904762,2.462,6.8
+INV-100185,B,Mandalay,Normal,Male,Home and lifestyle,32.95,10,16.475,345.975,2026-01-18,14:08,Credit card,329.5,4.761904762,16.475,6.7
+INV-100575,C,Naypyitaw,Member,Male,Home and lifestyle,55.48,4,11.096,233.016,2026-01-18,20:22,Ewallet,221.92,4.761904762,11.096,4.5
+INV-100914,B,Mandalay,Member,Female,Health and beauty,55.35,4,11.07,232.47,2026-01-18,20:59,Ewallet,221.4,4.761904762,11.07,8.4
+INV-100158,A,Yangon,Normal,Female,Fashion accessories,93.84,7,32.844,689.724,2026-01-19,15:51,Credit card,656.88,4.761904762,32.844,8.7
+INV-100010,A,Yangon,Member,Female,Health and beauty,15.95,1,0.7975,16.7475,2026-01-19,11:22,Cash,15.95,4.761904762,0.7975,8.1
+INV-100969,B,Mandalay,Member,Female,Food and beverages,32.68,7,11.438,240.198,2026-01-19,18:49,Ewallet,228.76,4.761904762,11.438,7.7
+INV-100372,A,Yangon,Normal,Male,Electronic accessories,94.01,1,4.7005,98.7105,2026-01-19,11:49,Cash,94.01,4.761904762,4.7005,8.6
+INV-100108,A,Yangon,Normal,Female,Food and beverages,61.86,3,9.279,194.859,2026-01-19,18:05,Credit card,185.58,4.761904762,9.279,5.7
+INV-100481,C,Naypyitaw,Member,Male,Fashion accessories,60.86,5,15.215,319.515,2026-01-19,10:13,Ewallet,304.3,4.761904762,15.215,7.1
+INV-100661,C,Naypyitaw,Normal,Male,Food and beverages,29.45,6,8.835,185.535,2026-01-19,20:47,Ewallet,176.7,4.761904762,8.835,4.6
+INV-100334,A,Yangon,Normal,Female,Health and beauty,72.68,3,10.902,228.942,2026-01-19,13:00,Cash,218.04,4.761904762,10.902,6.4
+INV-100906,C,Naypyitaw,Normal,Male,Food and beverages,72.18,7,25.263,530.523,2026-01-19,12:20,Credit card,505.26,4.761904762,25.263,5.1
+INV-100123,A,Yangon,Normal,Female,Fashion accessories,94.35,5,23.5875,495.3375,2026-01-19,10:56,Credit card,471.75,4.761904762,23.5875,7.8
+INV-100975,A,Yangon,Normal,Female,Home and lifestyle,86.33,2,8.633,181.293,2026-01-19,15:03,Credit card,172.66,4.761904762,8.633,7.2
+INV-100173,A,Yangon,Member,Male,Fashion accessories,20.46,6,6.138,128.898,2026-01-19,12:11,Credit card,122.76,4.761904762,6.138,8.6
+INV-100910,B,Mandalay,Member,Female,Food and beverages,70.39,8,28.156,591.276,2026-01-19,20:19,Credit card,563.12,4.761904762,28.156,5.6
+INV-100681,A,Yangon,Normal,Male,Sports and travel,26.62,2,2.662,55.902,2026-01-19,10:42,Credit card,53.24,4.761904762,2.662,7.3
+INV-100983,A,Yangon,Member,Male,Electronic accessories,64.33,2,6.433,135.093,2026-01-19,15:44,Ewallet,128.66,4.761904762,6.433,8.9
+INV-100398,C,Naypyitaw,Normal,Male,Home and lifestyle,48.57,4,9.714,203.994,2026-01-19,14:24,Cash,194.28,4.761904762,9.714,6.4
+INV-100685,B,Mandalay,Normal,Female,Food and beverages,57.05,7,19.9675,419.3175,2026-01-19,17:31,Cash,399.35,4.761904762,19.9675,9.5
+INV-100295,B,Mandalay,Member,Female,Home and lifestyle,73.78,1,3.689,77.469,2026-01-19,14:22,Ewallet,73.78,4.761904762,3.689,9.3
+INV-100645,C,Naypyitaw,Normal,Female,Food and beverages,53.27,5,13.3175,279.6675,2026-01-20,19:35,Cash,266.35,4.761904762,13.3175,5.9
+INV-100083,A,Yangon,Normal,Male,Health and beauty,76.07,4,15.214,319.494,2026-01-20,12:00,Ewallet,304.28,4.761904762,15.214,5.3
+INV-100780,C,Naypyitaw,Member,Female,Fashion accessories,47.38,10,23.69,497.49,2026-01-20,16:38,Cash,473.8,4.761904762,23.69,4.4
+INV-100124,A,Yangon,Normal,Male,Electronic accessories,83.6,10,41.8,877.8,2026-01-20,11:18,Cash,836.0,4.761904762,41.8,9.8
+INV-100760,A,Yangon,Member,Female,Health and beauty,99.23,5,24.8075,520.9575,2026-01-20,12:47,Credit card,496.15,4.761904762,24.8075,9.4
+INV-100794,A,Yangon,Member,Female,Home and lifestyle,28.73,7,10.0555,211.1655,2026-01-21,19:52,Cash,201.11,4.761904762,10.0555,9.0
+INV-100737,C,Naypyitaw,Member,Male,Sports and travel,54.02,10,27.01,567.21,2026-01-21,18:05,Ewallet,540.2,4.761904762,27.01,4.9
+INV-100107,C,Naypyitaw,Normal,Male,Sports and travel,19.39,4,3.878,81.438,2026-01-21,14:33,Credit card,77.56,4.761904762,3.878,4.0
+INV-100775,A,Yangon,Member,Female,Sports and travel,82.29,4,16.458,345.618,2026-01-21,14:07,Ewallet,329.16,4.761904762,16.458,9.2
+INV-100612,B,Mandalay,Normal,Female,Health and beauty,58.57,8,23.428,491.988,2026-01-21,14:04,Credit card,468.56,4.761904762,23.428,6.6
+INV-100174,B,Mandalay,Normal,Female,Food and beverages,65.09,5,16.2725,341.7225,2026-01-21,16:09,Cash,325.45,4.761904762,16.2725,9.8
+INV-100835,B,Mandalay,Normal,Male,Home and lifestyle,66.25,3,9.9375,208.6875,2026-01-21,10:49,Ewallet,198.75,4.761904762,9.9375,9.1
+INV-100479,B,Mandalay,Member,Male,Health and beauty,86.52,8,34.608,726.768,2026-01-21,16:06,Ewallet,692.16,4.761904762,34.608,9.2
+INV-100085,A,Yangon,Member,Female,Sports and travel,35.89,2,3.589,75.369,2026-01-21,13:50,Cash,71.78,4.761904762,3.589,9.2
+INV-100013,A,Yangon,Member,Female,Health and beauty,57.17,9,25.7265,540.2565,2026-01-22,15:06,Cash,514.53,4.761904762,25.7265,6.9
+INV-100589,A,Yangon,Normal,Male,Home and lifestyle,15.52,8,6.208,130.368,2026-01-22,12:39,Cash,124.16,4.761904762,6.208,5.6
+INV-100938,A,Yangon,Member,Male,Fashion accessories,82.71,3,12.4065,260.5365,2026-01-22,16:22,Credit card,248.13,4.761904762,12.4065,6.1
+INV-100874,A,Yangon,Normal,Male,Food and beverages,23.83,4,4.766,100.086,2026-01-22,11:24,Cash,95.32,4.761904762,4.766,8.9
+INV-100376,C,Naypyitaw,Member,Female,Food and beverages,80.08,3,12.012,252.252,2026-01-22,19:02,Cash,240.24,4.761904762,12.012,7.1
+INV-100175,A,Yangon,Normal,Male,Health and beauty,94.37,1,4.7185,99.0885,2026-01-22,18:00,Cash,94.37,4.761904762,4.7185,5.7
+INV-100450,C,Naypyitaw,Member,Female,Sports and travel,36.59,10,18.295,384.195,2026-01-22,14:33,Cash,365.9,4.761904762,18.295,8.1
+INV-100904,B,Mandalay,Normal,Male,Food and beverages,80.29,8,32.116,674.436,2026-01-22,16:59,Cash,642.32,4.761904762,32.116,4.5
+INV-100110,A,Yangon,Normal,Female,Electronic accessories,20.67,8,8.268,173.628,2026-01-22,13:47,Cash,165.36,4.761904762,8.268,7.6
+INV-100224,A,Yangon,Member,Female,Food and beverages,92.26,2,9.226,193.746,2026-01-22,15:05,Ewallet,184.52,4.761904762,9.226,7.4
+INV-100441,C,Naypyitaw,Member,Male,Food and beverages,74.25,8,29.7,623.7,2026-01-22,14:02,Credit card,594.0,4.761904762,29.7,6.9
+INV-100777,C,Naypyitaw,Member,Female,Food and beverages,15.36,2,1.536,32.256,2026-01-23,18:48,Ewallet,30.72,4.761904762,1.536,7.4
+INV-100258,B,Mandalay,Member,Female,Sports and travel,47.51,10,23.755,498.855,2026-01-23,12:57,Ewallet,475.1,4.761904762,23.755,5.4
+INV-100256,C,Naypyitaw,Member,Male,Home and lifestyle,37.62,1,1.881,39.501,2026-01-23,20:00,Ewallet,37.62,4.761904762,1.881,5.6
+INV-100669,A,Yangon,Normal,Female,Home and lifestyle,59.87,5,14.9675,314.3175,2026-01-23,16:26,Cash,299.35,4.761904762,14.9675,4.7
+INV-100364,C,Naypyitaw,Normal,Male,Sports and travel,52.04,7,18.214,382.494,2026-01-23,14:17,Ewallet,364.28,4.761904762,18.214,7.1
+INV-100756,B,Mandalay,Normal,Female,Home and lifestyle,16.54,6,4.962,104.202,2026-01-23,10:52,Cash,99.24,4.761904762,4.962,6.6
+INV-100830,A,Yangon,Normal,Female,Electronic accessories,62.58,8,25.032,525.672,2026-01-23,11:07,Credit card,500.64,4.761904762,25.032,4.3
+INV-100474,B,Mandalay,Member,Male,Food and beverages,74.02,8,29.608,621.768,2026-01-23,17:45,Ewallet,592.16,4.761904762,29.608,7.3
+INV-100915,B,Mandalay,Normal,Male,Electronic accessories,38.07,1,1.9035,39.9735,2026-01-23,19:38,Credit card,38.07,4.761904762,1.9035,4.9
+INV-100058,A,Yangon,Member,Male,Fashion accessories,69.51,10,34.755,729.855,2026-01-23,15:21,Cash,695.1,4.761904762,34.755,6.1
+INV-100668,A,Yangon,Member,Male,Health and beauty,81.9,8,32.76,687.96,2026-01-24,15:20,Credit card,655.2,4.761904762,32.76,8.2
+INV-100402,B,Mandalay,Member,Female,Fashion accessories,72.24,2,7.224,151.704,2026-01-24,11:33,Credit card,144.48,4.761904762,7.224,8.1
+INV-100102,A,Yangon,Normal,Female,Sports and travel,45.92,6,13.776,289.296,2026-01-24,19:14,Credit card,275.52,4.761904762,13.776,5.8
+INV-100054,B,Mandalay,Normal,Male,Electronic accessories,50.16,5,12.54,263.34,2026-01-24,20:40,Credit card,250.8,4.761904762,12.54,8.0
+INV-100494,B,Mandalay,Normal,Male,Electronic accessories,49.92,2,4.992,104.832,2026-01-24,17:11,Credit card,99.84,4.761904762,4.992,5.7
+INV-100697,B,Mandalay,Member,Female,Electronic accessories,53.45,9,24.0525,505.1025,2026-01-24,20:58,Cash,481.05,4.761904762,24.0525,7.0
+INV-100992,A,Yangon,Normal,Male,Sports and travel,42.63,3,6.3945,134.2845,2026-01-25,13:47,Cash,127.89,4.761904762,6.3945,8.5
+INV-100920,C,Naypyitaw,Normal,Female,Health and beauty,46.44,7,16.254,341.334,2026-01-25,10:53,Cash,325.08,4.761904762,16.254,7.1
+INV-100527,A,Yangon,Member,Male,Fashion accessories,53.02,1,2.651,55.671,2026-01-25,10:10,Cash,53.02,4.761904762,2.651,6.1
+INV-100204,B,Mandalay,Member,Male,Fashion accessories,96.13,4,19.226,403.746,2026-01-25,11:54,Cash,384.52,4.761904762,19.226,7.5
+INV-100815,B,Mandalay,Normal,Male,Sports and travel,81.58,10,40.79,856.59,2026-01-25,10:17,Ewallet,815.8,4.761904762,40.79,4.5
+INV-100913,B,Mandalay,Member,Male,Sports and travel,28.59,3,4.2885,90.0585,2026-01-25,20:17,Cash,85.77,4.761904762,4.2885,5.2
+INV-100121,C,Naypyitaw,Normal,Female,Electronic accessories,61.06,4,12.212,256.452,2026-01-25,10:13,Ewallet,244.24,4.761904762,12.212,6.7
+INV-100624,B,Mandalay,Member,Female,Electronic accessories,77.89,8,31.156,654.276,2026-01-25,13:16,Ewallet,623.12,4.761904762,31.156,8.8
+INV-100410,A,Yangon,Member,Male,Electronic accessories,86.37,4,17.274,362.754,2026-01-25,12:16,Cash,345.48,4.761904762,17.274,5.4
+INV-100467,C,Naypyitaw,Member,Female,Fashion accessories,68.42,5,17.105,359.205,2026-01-25,10:05,Cash,342.1,4.761904762,17.105,7.2
+INV-100750,A,Yangon,Normal,Female,Sports and travel,26.09,7,9.1315,191.7615,2026-01-25,12:42,Ewallet,182.63,4.761904762,9.1315,7.8
+INV-100705,C,Naypyitaw,Member,Male,Electronic accessories,60.89,10,30.445,639.345,2026-01-26,14:01,Ewallet,608.9,4.761904762,30.445,7.1
+INV-100707,C,Naypyitaw,Member,Female,Sports and travel,60.15,7,21.0525,442.1025,2026-01-26,19:17,Credit card,421.05,4.761904762,21.0525,8.4
+INV-100311,A,Yangon,Normal,Male,Home and lifestyle,88.27,5,22.0675,463.4175,2026-01-26,12:11,Cash,441.35,4.761904762,22.0675,7.6
+INV-100982,A,Yangon,Member,Male,Sports and travel,55.95,6,16.785,352.485,2026-01-26,15:50,Cash,335.7,4.761904762,16.785,6.6
+INV-100805,C,Naypyitaw,Normal,Male,Electronic accessories,61.27,6,18.381,386.001,2026-01-26,14:12,Ewallet,367.62,4.761904762,18.381,5.5
+INV-100755,C,Naypyitaw,Normal,Female,Food and beverages,92.93,7,32.5255,683.0355,2026-01-26,15:56,Credit card,650.51,4.761904762,32.5255,6.9
+INV-100593,B,Mandalay,Member,Male,Health and beauty,95.82,10,47.91,1006.11,2026-01-26,10:28,Ewallet,958.2,4.761904762,47.91,9.6
+INV-100506,C,Naypyitaw,Normal,Male,Home and lifestyle,21.98,6,6.594,138.474,2026-01-26,18:37,Credit card,131.88,4.761904762,6.594,6.5
+INV-100848,B,Mandalay,Normal,Male,Electronic accessories,77.41,4,15.482,325.122,2026-01-26,15:26,Cash,309.64,4.761904762,15.482,9.8
+INV-100878,A,Yangon,Member,Male,Fashion accessories,69.61,7,24.3635,511.6335,2026-01-26,11:48,Credit card,487.27,4.761904762,24.3635,4.6
+INV-100639,B,Mandalay,Normal,Male,Sports and travel,13.62,4,2.724,57.204,2026-01-26,12:28,Ewallet,54.48,4.761904762,2.724,10.0
+INV-100687,A,Yangon,Member,Female,Fashion accessories,69.92,4,13.984,293.664,2026-01-26,12:00,Ewallet,279.68,4.761904762,13.984,9.9
+INV-100000,B,Mandalay,Member,Female,Food and beverages,82.05,2,8.205,172.305,2026-01-26,10:21,Credit card,164.1,4.761904762,8.205,4.3
+INV-100133,A,Yangon,Member,Male,Health and beauty,51.17,6,15.351,322.371,2026-01-26,20:32,Cash,307.02,4.761904762,15.351,7.0
+INV-100075,C,Naypyitaw,Member,Male,Health and beauty,72.13,8,28.852,605.892,2026-01-26,17:13,Credit card,577.04,4.761904762,28.852,8.4
+INV-100139,C,Naypyitaw,Normal,Male,Electronic accessories,84.04,8,33.616,705.936,2026-01-27,11:50,Ewallet,672.32,4.761904762,33.616,6.1
+INV-100505,A,Yangon,Member,Female,Food and beverages,38.34,6,11.502,241.542,2026-01-27,18:47,Cash,230.04,4.761904762,11.502,7.8
+INV-100651,B,Mandalay,Member,Female,Food and beverages,83.21,6,24.963,524.223,2026-01-27,16:32,Cash,499.26,4.761904762,24.963,10.0
+INV-100939,B,Mandalay,Member,Female,Fashion accessories,88.71,2,8.871,186.291,2026-01-27,14:19,Cash,177.42,4.761904762,8.871,8.3
+INV-100721,A,Yangon,Member,Male,Sports and travel,21.41,1,1.0705,22.4805,2026-01-27,18:46,Ewallet,21.41,4.761904762,1.0705,6.1
+INV-100365,B,Mandalay,Member,Female,Sports and travel,65.68,6,19.704,413.784,2026-01-27,14:39,Cash,394.08,4.761904762,19.704,4.3
+INV-100179,A,Yangon,Normal,Male,Electronic accessories,59.5,5,14.875,312.375,2026-01-27,13:20,Cash,297.5,4.761904762,14.875,6.6
+INV-100604,A,Yangon,Member,Female,Fashion accessories,28.77,6,8.631,181.251,2026-01-27,17:47,Credit card,172.62,4.761904762,8.631,6.8
+INV-100259,A,Yangon,Normal,Female,Home and lifestyle,24.4,3,3.66,76.86,2026-01-27,16:44,Cash,73.2,4.761904762,3.66,6.0
+INV-100799,C,Naypyitaw,Member,Female,Sports and travel,42.17,1,2.1085,44.2785,2026-01-27,14:47,Cash,42.17,4.761904762,2.1085,5.9
+INV-100764,A,Yangon,Member,Female,Electronic accessories,30.2,5,7.55,158.55,2026-01-27,18:54,Ewallet,151.0,4.761904762,7.55,8.7
+INV-100487,A,Yangon,Normal,Male,Sports and travel,44.95,4,8.99,188.79,2026-01-28,16:52,Credit card,179.8,4.761904762,8.99,6.3
+INV-100980,A,Yangon,Member,Female,Health and beauty,27.01,3,4.0515,85.0815,2026-01-28,16:08,Credit card,81.03,4.761904762,4.0515,5.3
+INV-100399,C,Naypyitaw,Normal,Male,Fashion accessories,34.81,3,5.2215,109.6515,2026-01-28,20:48,Credit card,104.43,4.761904762,5.2215,9.1
+INV-100045,B,Mandalay,Normal,Male,Sports and travel,26.7,6,8.01,168.21,2026-01-28,15:03,Cash,160.2,4.761904762,8.01,9.3
+INV-100608,B,Mandalay,Member,Male,Home and lifestyle,88.38,10,44.19,927.99,2026-01-28,18:13,Ewallet,883.8,4.761904762,44.19,6.4
+INV-100892,C,Naypyitaw,Normal,Male,Health and beauty,54.96,8,21.984,461.664,2026-01-28,12:44,Cash,439.68,4.761904762,21.984,6.1
+INV-100332,A,Yangon,Member,Male,Home and lifestyle,13.12,2,1.312,27.552,2026-01-29,13:44,Ewallet,26.24,4.761904762,1.312,7.6
+INV-100782,A,Yangon,Member,Male,Health and beauty,46.21,9,20.7945,436.6845,2026-01-29,15:24,Cash,415.89,4.761904762,20.7945,5.7
+INV-100663,A,Yangon,Member,Male,Health and beauty,14.35,5,3.5875,75.3375,2026-01-29,15:35,Ewallet,71.75,4.761904762,3.5875,5.0
+INV-100682,A,Yangon,Normal,Female,Electronic accessories,15.36,8,6.144,129.024,2026-01-29,19:03,Ewallet,122.88,4.761904762,6.144,7.2
+INV-100733,B,Mandalay,Member,Male,Electronic accessories,10.38,2,1.038,21.798,2026-01-29,17:59,Cash,20.76,4.761904762,1.038,6.9
+INV-100452,B,Mandalay,Normal,Male,Electronic accessories,34.45,1,1.7225,36.1725,2026-01-29,17:55,Cash,34.45,4.761904762,1.7225,7.8
+INV-100005,A,Yangon,Normal,Male,Fashion accessories,31.3,9,14.085,295.785,2026-01-29,19:57,Cash,281.7,4.761904762,14.085,4.4
+INV-100449,A,Yangon,Normal,Female,Sports and travel,95.04,9,42.768,898.128,2026-01-29,13:55,Credit card,855.36,4.761904762,42.768,6.9
+INV-100704,A,Yangon,Member,Male,Health and beauty,61.59,2,6.159,129.339,2026-01-29,19:15,Cash,123.18,4.761904762,6.159,7.5
+INV-100246,B,Mandalay,Member,Female,Health and beauty,99.03,1,4.9515,103.9815,2026-01-29,12:14,Credit card,99.03,4.761904762,4.9515,6.2
+INV-100227,B,Mandalay,Member,Male,Health and beauty,53.51,1,2.6755,56.1855,2026-01-29,18:12,Credit card,53.51,4.761904762,2.6755,9.2
+INV-100026,A,Yangon,Normal,Male,Sports and travel,95.15,9,42.8175,899.1675,2026-01-29,19:14,Ewallet,856.35,4.761904762,42.8175,7.7
+INV-100638,A,Yangon,Normal,Male,Sports and travel,74.91,7,26.2185,550.5885,2026-01-29,19:35,Cash,524.37,4.761904762,26.2185,4.2
+INV-100314,C,Naypyitaw,Member,Male,Sports and travel,77.65,9,34.9425,733.7925,2026-01-29,19:02,Ewallet,698.85,4.761904762,34.9425,7.3
+INV-100677,B,Mandalay,Member,Female,Sports and travel,64.4,3,9.66,202.86,2026-01-30,11:11,Ewallet,193.2,4.761904762,9.66,6.9
+INV-100710,C,Naypyitaw,Member,Male,Electronic accessories,18.81,8,7.524,158.004,2026-01-30,16:53,Credit card,150.48,4.761904762,7.524,4.4
+INV-100059,A,Yangon,Normal,Male,Electronic accessories,77.53,9,34.8885,732.6585,2026-01-30,13:12,Cash,697.77,4.761904762,34.8885,9.5
+INV-100922,C,Naypyitaw,Normal,Male,Health and beauty,27.86,2,2.786,58.506,2026-01-30,17:47,Cash,55.72,4.761904762,2.786,6.5
+INV-100325,C,Naypyitaw,Member,Male,Food and beverages,23.84,10,11.92,250.32,2026-01-30,20:43,Ewallet,238.4,4.761904762,11.92,4.9
+INV-100751,C,Naypyitaw,Member,Male,Sports and travel,81.7,5,20.425,428.925,2026-01-30,18:26,Credit card,408.5,4.761904762,20.425,9.2
+INV-100292,C,Naypyitaw,Normal,Female,Food and beverages,97.54,8,39.016,819.336,2026-01-30,15:34,Cash,780.32,4.761904762,39.016,7.8
+INV-100502,A,Yangon,Member,Male,Fashion accessories,46.2,10,23.1,485.1,2026-01-30,14:50,Credit card,462.0,4.761904762,23.1,4.6
+INV-100703,A,Yangon,Normal,Female,Electronic accessories,16.4,5,4.1,86.1,2026-01-30,11:21,Cash,82.0,4.761904762,4.1,8.9
+INV-100735,C,Naypyitaw,Normal,Male,Fashion accessories,67.7,8,27.08,568.68,2026-01-30,16:05,Ewallet,541.6,4.761904762,27.08,6.8
+INV-100763,C,Naypyitaw,Member,Female,Electronic accessories,84.67,2,8.467,177.807,2026-01-31,17:39,Credit card,169.34,4.761904762,8.467,9.1
+INV-100313,C,Naypyitaw,Normal,Male,Electronic accessories,28.98,1,1.449,30.429,2026-01-31,13:46,Credit card,28.98,4.761904762,1.449,9.8
+INV-100090,A,Yangon,Normal,Male,Home and lifestyle,24.78,8,9.912,208.152,2026-01-31,13:11,Credit card,198.24,4.761904762,9.912,9.8
+INV-100501,B,Mandalay,Member,Male,Sports and travel,37.49,1,1.8745,39.3645,2026-01-31,13:34,Cash,37.49,4.761904762,1.8745,9.5
+INV-100031,A,Yangon,Normal,Male,Sports and travel,96.61,6,28.983,608.643,2026-01-31,16:57,Credit card,579.66,4.761904762,28.983,6.2
+INV-100597,A,Yangon,Member,Female,Electronic accessories,62.3,10,31.15,654.15,2026-01-31,12:09,Ewallet,623.0,4.761904762,31.15,8.8
+INV-100029,A,Yangon,Normal,Male,Food and beverages,34.94,5,8.735,183.435,2026-01-31,18:08,Ewallet,174.7,4.761904762,8.735,8.4
+INV-100773,B,Mandalay,Normal,Female,Electronic accessories,61.99,9,27.8955,585.8055,2026-01-31,14:43,Cash,557.91,4.761904762,27.8955,9.8
+INV-100147,B,Mandalay,Normal,Female,Electronic accessories,17.61,4,3.522,73.962,2026-01-31,15:41,Credit card,70.44,4.761904762,3.522,8.6
+INV-100510,B,Mandalay,Normal,Female,Food and beverages,72.34,6,21.702,455.742,2026-01-31,12:05,Credit card,434.04,4.761904762,21.702,5.9
+INV-100723,C,Naypyitaw,Member,Female,Sports and travel,56.62,4,11.324,237.804,2026-02-01,13:47,Ewallet,226.48,4.761904762,11.324,6.1
+INV-100817,B,Mandalay,Normal,Female,Fashion accessories,64.85,9,29.1825,612.8325,2026-02-01,12:35,Ewallet,583.65,4.761904762,29.1825,6.7
+INV-100440,A,Yangon,Normal,Male,Food and beverages,22.88,10,11.44,240.24,2026-02-01,14:47,Cash,228.8,4.761904762,11.44,7.1
+INV-100529,C,Naypyitaw,Normal,Male,Fashion accessories,58.67,8,23.468,492.828,2026-02-01,16:11,Ewallet,469.36,4.761904762,23.468,8.0
+INV-100305,C,Naypyitaw,Normal,Female,Fashion accessories,30.32,8,12.128,254.688,2026-02-01,20:56,Cash,242.56,4.761904762,12.128,5.1
+INV-100958,A,Yangon,Normal,Female,Fashion accessories,39.56,5,9.89,207.69,2026-02-01,15:55,Ewallet,197.8,4.761904762,9.89,4.4
+INV-100573,B,Mandalay,Normal,Female,Sports and travel,15.58,8,6.232,130.872,2026-02-01,15:59,Credit card,124.64,4.761904762,6.232,8.2
+INV-100113,C,Naypyitaw,Normal,Male,Electronic accessories,16.04,7,5.614,117.894,2026-02-01,20:19,Cash,112.28,4.761904762,5.614,8.1
+INV-100406,B,Mandalay,Normal,Female,Electronic accessories,29.66,6,8.898,186.858,2026-02-01,10:13,Cash,177.96,4.761904762,8.898,8.4
+INV-100222,A,Yangon,Member,Female,Home and lifestyle,48.77,9,21.9465,460.8765,2026-02-01,19:39,Ewallet,438.93,4.761904762,21.9465,4.2
+INV-100644,A,Yangon,Member,Female,Fashion accessories,70.44,10,35.22,739.62,2026-02-01,12:41,Credit card,704.4,4.761904762,35.22,5.9
+INV-100779,B,Mandalay,Normal,Female,Food and beverages,22.58,7,7.903,165.963,2026-02-01,14:26,Cash,158.06,4.761904762,7.903,7.4
+INV-100153,B,Mandalay,Normal,Male,Fashion accessories,82.68,2,8.268,173.628,2026-02-01,18:37,Ewallet,165.36,4.761904762,8.268,7.1
+INV-100375,A,Yangon,Normal,Female,Electronic accessories,60.0,4,12.0,252.0,2026-02-01,20:37,Credit card,240.0,4.761904762,12.0,4.4
+INV-100186,C,Naypyitaw,Normal,Male,Health and beauty,19.52,1,0.976,20.496,2026-02-02,14:02,Cash,19.52,4.761904762,0.976,7.7
+INV-100072,A,Yangon,Member,Female,Electronic accessories,90.51,1,4.5255,95.0355,2026-02-02,11:11,Ewallet,90.51,4.761904762,4.5255,9.8
+INV-100420,C,Naypyitaw,Member,Female,Sports and travel,33.25,5,8.3125,174.5625,2026-02-02,15:44,Cash,166.25,4.761904762,8.3125,6.6
+INV-100807,C,Naypyitaw,Member,Female,Home and lifestyle,76.73,4,15.346,322.266,2026-02-02,15:07,Cash,306.92,4.761904762,15.346,9.9
+INV-100080,C,Naypyitaw,Normal,Female,Electronic accessories,48.65,10,24.325,510.825,2026-02-02,14:52,Ewallet,486.5,4.761904762,24.325,5.4
+INV-100081,B,Mandalay,Member,Female,Food and beverages,84.7,9,38.115,800.415,2026-02-02,14:16,Cash,762.3,4.761904762,38.115,4.7
+INV-100112,C,Naypyitaw,Member,Female,Sports and travel,29.3,10,14.65,307.65,2026-02-02,19:56,Credit card,293.0,4.761904762,14.65,6.4
+INV-100025,C,Naypyitaw,Member,Female,Health and beauty,86.25,5,21.5625,452.8125,2026-02-02,14:59,Ewallet,431.25,4.761904762,21.5625,8.5
+INV-100211,C,Naypyitaw,Member,Male,Food and beverages,46.25,2,4.625,97.125,2026-02-02,19:22,Ewallet,92.5,4.761904762,4.625,8.9
+INV-100847,C,Naypyitaw,Member,Female,Electronic accessories,48.63,7,17.0205,357.4305,2026-02-02,16:56,Credit card,340.41,4.761904762,17.0205,6.1
+INV-100162,B,Mandalay,Member,Female,Food and beverages,57.79,3,8.6685,182.0385,2026-02-02,12:18,Cash,173.37,4.761904762,8.6685,4.3
+INV-100024,B,Mandalay,Normal,Female,Electronic accessories,38.55,1,1.9275,40.4775,2026-02-02,19:53,Credit card,38.55,4.761904762,1.9275,7.9
+INV-100344,B,Mandalay,Normal,Male,Sports and travel,70.45,1,3.5225,73.9725,2026-02-02,16:19,Credit card,70.45,4.761904762,3.5225,5.6
+INV-100239,A,Yangon,Member,Female,Food and beverages,41.09,7,14.3815,302.0115,2026-02-02,13:50,Ewallet,287.63,4.761904762,14.3815,8.8
+INV-100483,B,Mandalay,Member,Female,Food and beverages,17.65,10,8.825,185.325,2026-02-02,19:47,Ewallet,176.5,4.761904762,8.825,4.3
+INV-100659,B,Mandalay,Member,Male,Fashion accessories,91.13,10,45.565,956.865,2026-02-02,13:37,Cash,911.3,4.761904762,45.565,8.3
+INV-100146,B,Mandalay,Normal,Female,Food and beverages,28.79,6,8.637,181.377,2026-02-02,17:18,Credit card,172.74,4.761904762,8.637,4.2
+INV-100043,C,Naypyitaw,Normal,Female,Health and beauty,85.03,7,29.7605,624.9705,2026-02-03,19:22,Ewallet,595.21,4.761904762,29.7605,6.3
+INV-100846,A,Yangon,Member,Male,Home and lifestyle,82.83,6,24.849,521.829,2026-02-03,17:38,Cash,496.98,4.761904762,24.849,7.9
+INV-100070,C,Naypyitaw,Member,Male,Health and beauty,46.18,2,4.618,96.978,2026-02-03,12:10,Cash,92.36,4.761904762,4.618,7.8
+INV-100962,A,Yangon,Normal,Female,Fashion accessories,95.02,7,33.257,698.397,2026-02-03,18:24,Ewallet,665.14,4.761904762,33.257,7.1
+INV-100785,C,Naypyitaw,Normal,Female,Food and beverages,22.16,10,11.08,232.68,2026-02-03,15:23,Ewallet,221.6,4.761904762,11.08,4.9
+INV-100614,C,Naypyitaw,Member,Female,Home and lifestyle,60.87,5,15.2175,319.5675,2026-02-04,10:15,Credit card,304.35,4.761904762,15.2175,6.7
+INV-100545,B,Mandalay,Member,Female,Electronic accessories,82.81,7,28.9835,608.6535,2026-02-04,18:05,Ewallet,579.67,4.761904762,28.9835,6.4
+INV-100322,B,Mandalay,Normal,Male,Fashion accessories,61.42,5,15.355,322.455,2026-02-04,14:58,Ewallet,307.1,4.761904762,15.355,4.3
+INV-100543,C,Naypyitaw,Member,Male,Health and beauty,65.17,4,13.034,273.714,2026-02-04,14:42,Credit card,260.68,4.761904762,13.034,5.0
+INV-100522,C,Naypyitaw,Member,Female,Fashion accessories,86.41,6,25.923,544.383,2026-02-04,12:53,Credit card,518.46,4.761904762,25.923,7.9
+INV-100607,B,Mandalay,Normal,Female,Sports and travel,63.51,7,22.2285,466.7985,2026-02-04,18:57,Ewallet,444.57,4.761904762,22.2285,7.3
+INV-100455,B,Mandalay,Normal,Female,Health and beauty,66.97,3,10.0455,210.9555,2026-02-04,14:04,Cash,200.91,4.761904762,10.0455,6.1
+INV-100605,B,Mandalay,Normal,Male,Food and beverages,15.27,2,1.527,32.067,2026-02-04,14:04,Ewallet,30.54,4.761904762,1.527,9.3
+INV-100810,C,Naypyitaw,Normal,Female,Home and lifestyle,80.14,8,32.056,673.176,2026-02-04,13:11,Cash,641.12,4.761904762,32.056,6.0
+INV-100599,A,Yangon,Normal,Female,Food and beverages,40.39,10,20.195,424.095,2026-02-04,19:55,Cash,403.9,4.761904762,20.195,6.7
+INV-100729,A,Yangon,Normal,Female,Home and lifestyle,22.82,8,9.128,191.688,2026-02-04,17:36,Credit card,182.56,4.761904762,9.128,5.9
+INV-100769,C,Naypyitaw,Member,Male,Health and beauty,81.84,4,16.368,343.728,2026-02-04,13:57,Credit card,327.36,4.761904762,16.368,7.3
+INV-100460,A,Yangon,Member,Male,Fashion accessories,69.79,2,6.979,146.559,2026-02-04,14:46,Credit card,139.58,4.761904762,6.979,4.4
+INV-100415,B,Mandalay,Normal,Male,Home and lifestyle,93.5,7,32.725,687.225,2026-02-05,20:16,Credit card,654.5,4.761904762,32.725,8.3
+INV-100684,C,Naypyitaw,Member,Female,Food and beverages,78.66,9,35.397,743.337,2026-02-05,16:37,Cash,707.94,4.761904762,35.397,4.0
+INV-100648,C,Naypyitaw,Normal,Female,Home and lifestyle,11.98,5,2.995,62.895,2026-02-05,16:12,Cash,59.9,4.761904762,2.995,5.7
+INV-100556,A,Yangon,Normal,Male,Sports and travel,11.88,3,1.782,37.422,2026-02-05,18:21,Credit card,35.64,4.761904762,1.782,9.0
+INV-100418,C,Naypyitaw,Member,Female,Health and beauty,11.23,4,2.246,47.166,2026-02-05,10:07,Cash,44.92,4.761904762,2.246,4.9
+INV-100963,B,Mandalay,Member,Male,Home and lifestyle,38.13,2,3.813,80.073,2026-02-05,10:30,Ewallet,76.26,4.761904762,3.813,5.8
+INV-100864,B,Mandalay,Normal,Female,Health and beauty,29.24,3,4.386,92.106,2026-02-05,17:48,Ewallet,87.72,4.761904762,4.386,8.0
+INV-100336,C,Naypyitaw,Member,Female,Electronic accessories,67.67,1,3.3835,71.0535,2026-02-05,14:12,Ewallet,67.67,4.761904762,3.3835,9.6
+INV-100341,B,Mandalay,Member,Female,Health and beauty,30.68,1,1.534,32.214,2026-02-05,17:25,Cash,30.68,4.761904762,1.534,4.7
+INV-100310,B,Mandalay,Member,Female,Electronic accessories,40.34,4,8.068,169.428,2026-02-05,18:28,Ewallet,161.36,4.761904762,8.068,7.6
+INV-100867,A,Yangon,Member,Male,Sports and travel,82.99,6,24.897,522.837,2026-02-05,18:48,Ewallet,497.94,4.761904762,24.897,4.7
+INV-100301,B,Mandalay,Normal,Male,Sports and travel,48.31,5,12.0775,253.6275,2026-02-06,13:44,Ewallet,241.55,4.761904762,12.0775,7.1
+INV-100363,B,Mandalay,Normal,Female,Food and beverages,36.02,8,14.408,302.568,2026-02-06,20:26,Ewallet,288.16,4.761904762,14.408,8.8
+INV-100708,A,Yangon,Normal,Female,Sports and travel,96.29,10,48.145,1011.045,2026-02-06,12:02,Cash,962.9,4.761904762,48.145,5.7
+INV-100144,A,Yangon,Member,Female,Electronic accessories,82.43,7,28.8505,605.8605,2026-02-06,19:03,Credit card,577.01,4.761904762,28.8505,6.3
+INV-100564,B,Mandalay,Normal,Female,Sports and travel,77.99,10,38.995,818.895,2026-02-06,18:30,Credit card,779.9,4.761904762,38.995,4.1
+INV-100138,B,Mandalay,Member,Female,Health and beauty,42.29,1,2.1145,44.4045,2026-02-06,13:09,Credit card,42.29,4.761904762,2.1145,5.5
+INV-100419,C,Naypyitaw,Normal,Female,Electronic accessories,17.34,5,4.335,91.035,2026-02-07,14:00,Ewallet,86.7,4.761904762,4.335,5.6
+INV-100532,C,Naypyitaw,Normal,Female,Food and beverages,19.48,10,9.74,204.54,2026-02-07,18:24,Cash,194.8,4.761904762,9.74,6.1
+INV-100074,C,Naypyitaw,Normal,Male,Electronic accessories,38.22,1,1.911,40.131,2026-02-07,17:30,Ewallet,38.22,4.761904762,1.911,9.4
+INV-100689,A,Yangon,Normal,Female,Sports and travel,49.72,3,7.458,156.618,2026-02-07,18:41,Cash,149.16,4.761904762,7.458,8.6
+INV-100379,A,Yangon,Normal,Male,Fashion accessories,13.61,10,6.805,142.905,2026-02-07,19:40,Ewallet,136.1,4.761904762,6.805,5.7
+INV-100592,A,Yangon,Member,Male,Home and lifestyle,68.32,5,17.08,358.68,2026-02-07,15:22,Cash,341.6,4.761904762,17.08,4.1
+INV-100629,A,Yangon,Member,Female,Home and lifestyle,66.65,1,3.3325,69.9825,2026-02-07,12:28,Ewallet,66.65,4.761904762,3.3325,4.1
+INV-100155,A,Yangon,Normal,Female,Sports and travel,44.58,10,22.29,468.09,2026-02-07,14:47,Ewallet,445.8,4.761904762,22.29,5.6
+INV-100216,A,Yangon,Member,Male,Sports and travel,75.76,10,37.88,795.48,2026-02-07,16:14,Cash,757.6,4.761904762,37.88,9.6
+INV-100002,C,Naypyitaw,Normal,Male,Home and lifestyle,77.49,7,27.1215,569.5515,2026-02-07,16:30,Credit card,542.43,4.761904762,27.1215,4.2
+INV-100223,B,Mandalay,Normal,Female,Sports and travel,44.08,5,11.02,231.42,2026-02-07,10:38,Cash,220.4,4.761904762,11.02,9.0
+INV-100908,A,Yangon,Member,Female,Health and beauty,45.38,1,2.269,47.649,2026-02-08,14:47,Ewallet,45.38,4.761904762,2.269,8.2
+INV-100116,C,Naypyitaw,Member,Female,Food and beverages,12.92,6,3.876,81.396,2026-02-08,18:04,Ewallet,77.52,4.761904762,3.876,4.7
+INV-100918,C,Naypyitaw,Member,Female,Home and lifestyle,76.99,1,3.8495,80.8395,2026-02-08,18:56,Ewallet,76.99,4.761904762,3.8495,4.6
+INV-100518,C,Naypyitaw,Member,Male,Food and beverages,12.31,8,4.924,103.404,2026-02-08,18:32,Ewallet,98.48,4.761904762,4.924,6.5
+INV-100829,B,Mandalay,Member,Female,Sports and travel,12.15,5,3.0375,63.7875,2026-02-08,17:06,Cash,60.75,4.761904762,3.0375,8.0
+INV-100023,B,Mandalay,Normal,Female,Home and lifestyle,71.0,2,7.1,149.1,2026-02-08,14:22,Credit card,142.0,4.761904762,7.1,7.3
+INV-100078,B,Mandalay,Member,Male,Fashion accessories,26.6,2,2.66,55.86,2026-02-08,14:31,Cash,53.2,4.761904762,2.66,6.2
+INV-100247,C,Naypyitaw,Member,Male,Food and beverages,12.32,4,2.464,51.744,2026-02-08,10:32,Ewallet,49.28,4.761904762,2.464,7.7
+INV-100513,C,Naypyitaw,Member,Male,Health and beauty,88.47,2,8.847,185.787,2026-02-08,15:44,Ewallet,176.94,4.761904762,8.847,9.2
+INV-100698,A,Yangon,Normal,Male,Electronic accessories,44.41,4,8.882,186.522,2026-02-08,15:44,Credit card,177.64,4.761904762,8.882,4.5
+INV-100207,B,Mandalay,Member,Male,Health and beauty,93.99,5,23.4975,493.4475,2026-02-09,19:52,Cash,469.95,4.761904762,23.4975,4.4
+INV-100652,B,Mandalay,Member,Female,Electronic accessories,35.2,8,14.08,295.68,2026-02-09,16:20,Ewallet,281.6,4.761904762,14.08,10.0
+INV-100471,C,Naypyitaw,Normal,Male,Food and beverages,80.11,10,40.055,841.155,2026-02-09,15:51,Ewallet,801.1,4.761904762,40.055,5.0
+INV-100330,B,Mandalay,Normal,Female,Home and lifestyle,71.1,10,35.55,746.55,2026-02-09,17:48,Credit card,711.0,4.761904762,35.55,6.6
+INV-100378,C,Naypyitaw,Member,Female,Fashion accessories,83.57,4,16.714,350.994,2026-02-09,10:30,Cash,334.28,4.761904762,16.714,9.8
+INV-100562,A,Yangon,Normal,Female,Home and lifestyle,70.74,8,28.296,594.216,2026-02-09,19:45,Credit card,565.92,4.761904762,28.296,7.6
+INV-100374,A,Yangon,Member,Male,Sports and travel,84.01,9,37.8045,793.8945,2026-02-09,17:23,Cash,756.09,4.761904762,37.8045,5.4
+INV-100583,A,Yangon,Member,Female,Electronic accessories,89.41,6,26.823,563.283,2026-02-09,13:25,Ewallet,536.46,4.761904762,26.823,6.7
+INV-100716,C,Naypyitaw,Member,Male,Fashion accessories,95.04,1,4.752,99.792,2026-02-10,17:49,Ewallet,95.04,4.761904762,4.752,4.8
+INV-100582,B,Mandalay,Normal,Female,Health and beauty,20.35,7,7.1225,149.5725,2026-02-10,11:50,Cash,142.45,4.761904762,7.1225,7.8
+INV-100190,A,Yangon,Member,Female,Home and lifestyle,69.17,5,17.2925,363.1425,2026-02-10,14:29,Ewallet,345.85,4.761904762,17.2925,5.4
+INV-100557,A,Yangon,Member,Female,Electronic accessories,38.39,3,5.7585,120.9285,2026-02-10,15:34,Cash,115.17,4.761904762,5.7585,4.6
+INV-100742,C,Naypyitaw,Normal,Female,Sports and travel,18.85,6,5.655,118.755,2026-02-10,16:28,Credit card,113.1,4.761904762,5.655,8.5
+INV-100734,B,Mandalay,Member,Male,Sports and travel,70.27,7,24.5945,516.4845,2026-02-10,18:52,Ewallet,491.89,4.761904762,24.5945,6.9
+INV-100038,C,Naypyitaw,Member,Female,Fashion accessories,40.56,10,20.28,425.88,2026-02-10,13:54,Cash,405.6,4.761904762,20.28,5.0
+INV-100852,A,Yangon,Normal,Female,Home and lifestyle,34.16,8,13.664,286.944,2026-02-10,15:23,Cash,273.28,4.761904762,13.664,6.2
+INV-100408,C,Naypyitaw,Normal,Male,Electronic accessories,21.77,6,6.531,137.151,2026-02-10,10:13,Cash,130.62,4.761904762,6.531,7.8
+INV-100285,A,Yangon,Normal,Female,Food and beverages,62.43,1,3.1215,65.5515,2026-02-10,14:21,Ewallet,62.43,4.761904762,3.1215,8.3
+INV-100001,C,Naypyitaw,Normal,Female,Electronic accessories,45.25,4,9.05,190.05,2026-02-10,17:04,Ewallet,181.0,4.761904762,9.05,4.6
+INV-100496,B,Mandalay,Normal,Male,Electronic accessories,88.54,4,17.708,371.868,2026-02-10,20:04,Ewallet,354.16,4.761904762,17.708,4.9
+INV-100264,C,Naypyitaw,Member,Male,Electronic accessories,17.56,1,0.878,18.438,2026-02-10,12:04,Cash,17.56,4.761904762,0.878,4.1
+INV-100339,A,Yangon,Member,Female,Home and lifestyle,90.52,1,4.526,95.046,2026-02-10,19:47,Ewallet,90.52,4.761904762,4.526,6.5
+INV-100672,A,Yangon,Normal,Male,Food and beverages,80.52,9,36.234,760.914,2026-02-10,11:55,Cash,724.68,4.761904762,36.234,8.7
+INV-100217,C,Naypyitaw,Normal,Female,Food and beverages,84.12,7,29.442,618.282,2026-02-10,11:52,Credit card,588.84,4.761904762,29.442,6.4
+INV-100237,A,Yangon,Member,Female,Home and lifestyle,45.52,9,20.484,430.164,2026-02-10,14:42,Ewallet,409.68,4.761904762,20.484,8.1
+INV-100970,B,Mandalay,Member,Female,Health and beauty,88.49,9,39.8205,836.2305,2026-02-10,15:41,Credit card,796.41,4.761904762,39.8205,6.7
+INV-100558,C,Naypyitaw,Normal,Female,Food and beverages,15.11,2,1.511,31.731,2026-02-11,20:46,Ewallet,30.22,4.761904762,1.511,8.1
+INV-100902,A,Yangon,Normal,Female,Sports and travel,94.02,2,9.402,197.442,2026-02-11,17:24,Ewallet,188.04,4.761904762,9.402,5.0
+INV-100091,C,Naypyitaw,Normal,Male,Sports and travel,20.48,1,1.024,21.504,2026-02-11,10:52,Cash,20.48,4.761904762,1.024,7.4
+INV-100413,B,Mandalay,Member,Female,Food and beverages,40.68,3,6.102,128.142,2026-02-11,19:28,Credit card,122.04,4.761904762,6.102,5.4
+INV-100858,B,Mandalay,Normal,Female,Sports and travel,48.34,1,2.417,50.757,2026-02-11,20:26,Cash,48.34,4.761904762,2.417,6.4
+INV-100421,C,Naypyitaw,Normal,Female,Health and beauty,12.5,7,4.375,91.875,2026-02-11,17:52,Cash,87.5,4.761904762,4.375,8.4
+INV-100119,B,Mandalay,Member,Male,Home and lifestyle,19.28,4,3.856,80.976,2026-02-11,12:37,Ewallet,77.12,4.761904762,3.856,8.5
+INV-100694,A,Yangon,Member,Male,Home and lifestyle,14.6,9,6.57,137.97,2026-02-12,10:55,Credit card,131.4,4.761904762,6.57,7.7
+INV-100337,C,Naypyitaw,Normal,Female,Home and lifestyle,33.36,10,16.68,350.28,2026-02-12,18:10,Ewallet,333.6,4.761904762,16.68,9.2
+INV-100546,A,Yangon,Normal,Female,Fashion accessories,62.42,7,21.847,458.787,2026-02-12,10:19,Credit card,436.94,4.761904762,21.847,6.7
+INV-100328,B,Mandalay,Normal,Male,Sports and travel,42.46,9,19.107,401.247,2026-02-12,18:29,Credit card,382.14,4.761904762,19.107,7.5
+INV-100965,B,Mandalay,Normal,Male,Home and lifestyle,21.84,10,10.92,229.32,2026-02-12,18:26,Credit card,218.4,4.761904762,10.92,9.2
+INV-100901,A,Yangon,Member,Male,Electronic accessories,68.04,3,10.206,214.326,2026-02-12,14:29,Ewallet,204.12,4.761904762,10.206,4.1
+INV-100712,B,Mandalay,Normal,Female,Sports and travel,26.66,10,13.33,279.93,2026-02-12,14:15,Credit card,266.6,4.761904762,13.33,7.0
+INV-100434,A,Yangon,Member,Male,Home and lifestyle,16.24,5,4.06,85.26,2026-02-12,11:25,Cash,81.2,4.761904762,4.06,4.0
+INV-100169,B,Mandalay,Member,Female,Home and lifestyle,60.54,2,6.054,127.134,2026-02-12,11:53,Ewallet,121.08,4.761904762,6.054,5.8
+INV-100276,C,Naypyitaw,Member,Male,Electronic accessories,30.81,10,15.405,323.505,2026-02-12,12:39,Credit card,308.1,4.761904762,15.405,4.1
+INV-100308,C,Naypyitaw,Member,Female,Fashion accessories,18.57,2,1.857,38.997,2026-02-12,17:54,Ewallet,37.14,4.761904762,1.857,6.8
+INV-100403,C,Naypyitaw,Normal,Female,Electronic accessories,30.98,4,6.196,130.116,2026-02-13,13:08,Cash,123.92,4.761904762,6.196,7.6
+INV-100181,A,Yangon,Member,Female,Fashion accessories,84.94,8,33.976,713.496,2026-02-13,18:17,Credit card,679.52,4.761904762,33.976,7.3
+INV-100468,A,Yangon,Normal,Female,Home and lifestyle,19.3,3,2.895,60.795,2026-02-13,17:26,Cash,57.9,4.761904762,2.895,4.6
+INV-100570,B,Mandalay,Normal,Female,Home and lifestyle,62.55,10,31.275,656.775,2026-02-13,19:24,Ewallet,625.5,4.761904762,31.275,8.4
+INV-100678,C,Naypyitaw,Member,Female,Electronic accessories,29.82,10,14.91,313.11,2026-02-13,20:21,Cash,298.2,4.761904762,14.91,5.0
+INV-100525,B,Mandalay,Member,Female,Sports and travel,96.62,7,33.817,710.157,2026-02-13,13:42,Ewallet,676.34,4.761904762,33.817,5.0
+INV-100620,A,Yangon,Member,Male,Food and beverages,48.91,2,4.891,102.711,2026-02-13,11:03,Ewallet,97.82,4.761904762,4.891,4.1
+INV-100504,C,Naypyitaw,Member,Female,Electronic accessories,71.33,6,21.399,449.379,2026-02-13,20:10,Ewallet,427.98,4.761904762,21.399,9.3
+INV-100017,B,Mandalay,Normal,Male,Home and lifestyle,12.71,7,4.4485,93.4185,2026-02-13,20:33,Credit card,88.97,4.761904762,4.4485,5.6
+INV-100700,B,Mandalay,Normal,Male,Fashion accessories,23.06,2,2.306,48.426,2026-02-13,17:51,Cash,46.12,4.761904762,2.306,7.9
+INV-100641,A,Yangon,Normal,Female,Electronic accessories,56.41,5,14.1025,296.1525,2026-02-14,16:03,Ewallet,282.05,4.761904762,14.1025,8.5
+INV-100182,C,Naypyitaw,Normal,Female,Health and beauty,83.24,10,41.62,874.02,2026-02-14,17:01,Credit card,832.4,4.761904762,41.62,9.6
+INV-100606,A,Yangon,Member,Female,Electronic accessories,59.66,5,14.915,313.215,2026-02-14,13:04,Credit card,298.3,4.761904762,14.915,6.7
+INV-100923,C,Naypyitaw,Member,Female,Home and lifestyle,80.43,2,8.043,168.903,2026-02-14,15:44,Cash,160.86,4.761904762,8.043,5.8
+INV-100086,C,Naypyitaw,Normal,Female,Sports and travel,54.3,7,19.005,399.105,2026-02-14,16:03,Cash,380.1,4.761904762,19.005,7.0
+INV-100140,C,Naypyitaw,Normal,Male,Electronic accessories,83.78,7,29.323,615.783,2026-02-14,13:18,Cash,586.46,4.761904762,29.323,5.1
+INV-100461,B,Mandalay,Normal,Male,Home and lifestyle,60.04,10,30.02,630.42,2026-02-14,18:03,Credit card,600.4,4.761904762,30.02,4.3
+INV-100555,B,Mandalay,Member,Male,Sports and travel,91.93,4,18.386,386.106,2026-02-14,17:12,Cash,367.72,4.761904762,18.386,6.1
+INV-100248,C,Naypyitaw,Normal,Male,Home and lifestyle,64.26,6,19.278,404.838,2026-02-14,13:56,Ewallet,385.56,4.761904762,19.278,6.3
+INV-100676,A,Yangon,Member,Female,Health and beauty,58.65,6,17.595,369.495,2026-02-14,10:01,Credit card,351.9,4.761904762,17.595,4.4
+INV-100459,A,Yangon,Normal,Female,Fashion accessories,39.09,10,19.545,410.445,2026-02-15,18:24,Cash,390.9,4.761904762,19.545,9.4
+INV-100784,A,Yangon,Normal,Male,Fashion accessories,99.59,5,24.8975,522.8475,2026-02-15,16:20,Credit card,497.95,4.761904762,24.8975,6.2
+INV-100032,A,Yangon,Member,Female,Fashion accessories,10.92,3,1.638,34.398,2026-02-15,19:52,Credit card,32.76,4.761904762,1.638,6.4
+INV-100423,B,Mandalay,Member,Female,Electronic accessories,48.33,3,7.2495,152.2395,2026-02-15,14:06,Cash,144.99,4.761904762,7.2495,6.0
+INV-100360,B,Mandalay,Normal,Female,Electronic accessories,69.28,10,34.64,727.44,2026-02-15,10:49,Credit card,692.8,4.761904762,34.64,4.6
+INV-100473,C,Naypyitaw,Member,Male,Sports and travel,10.0,6,3.0,63.0,2026-02-15,20:02,Credit card,60.0,4.761904762,3.0,9.3
+INV-100476,A,Yangon,Normal,Female,Health and beauty,32.88,9,14.796,310.716,2026-02-15,13:09,Credit card,295.92,4.761904762,14.796,6.3
+INV-100011,C,Naypyitaw,Normal,Female,Electronic accessories,11.72,1,0.586,12.306,2026-02-15,19:23,Ewallet,11.72,4.761904762,0.586,9.3
+INV-100251,B,Mandalay,Member,Male,Fashion accessories,20.82,7,7.287,153.027,2026-02-15,12:37,Ewallet,145.74,4.761904762,7.287,4.0
+INV-100834,B,Mandalay,Normal,Female,Fashion accessories,18.22,9,8.199,172.179,2026-02-16,10:09,Cash,163.98,4.761904762,8.199,8.9
+INV-100809,A,Yangon,Member,Male,Health and beauty,41.9,1,2.095,43.995,2026-02-16,13:25,Credit card,41.9,4.761904762,2.095,8.7
+INV-100534,C,Naypyitaw,Member,Male,Food and beverages,58.94,9,26.523,556.983,2026-02-16,12:02,Ewallet,530.46,4.761904762,26.523,6.8
+INV-100306,B,Mandalay,Normal,Female,Electronic accessories,83.48,10,41.74,876.54,2026-02-16,19:44,Cash,834.8,4.761904762,41.74,5.1
+INV-100445,C,Naypyitaw,Member,Female,Electronic accessories,90.93,10,45.465,954.765,2026-02-16,19:40,Ewallet,909.3,4.761904762,45.465,4.7
+INV-100351,C,Naypyitaw,Normal,Male,Fashion accessories,42.41,5,10.6025,222.6525,2026-02-16,17:45,Ewallet,212.05,4.761904762,10.6025,7.8
+INV-100109,A,Yangon,Member,Male,Fashion accessories,51.71,7,18.0985,380.0685,2026-02-16,16:16,Ewallet,361.97,4.761904762,18.0985,9.3
+INV-100993,B,Mandalay,Member,Female,Electronic accessories,89.05,1,4.4525,93.5025,2026-02-16,18:32,Ewallet,89.05,4.761904762,4.4525,9.7
+INV-100470,A,Yangon,Normal,Female,Food and beverages,75.53,1,3.7765,79.3065,2026-02-16,14:11,Cash,75.53,4.761904762,3.7765,9.2
+INV-100972,C,Naypyitaw,Member,Male,Health and beauty,14.82,7,5.187,108.927,2026-02-16,10:20,Ewallet,103.74,4.761904762,5.187,7.9
+INV-100498,C,Naypyitaw,Member,Male,Fashion accessories,62.39,7,21.8365,458.5665,2026-02-16,16:40,Credit card,436.73,4.761904762,21.8365,9.8
+INV-100626,B,Mandalay,Member,Female,Health and beauty,84.48,4,16.896,354.816,2026-02-16,19:35,Credit card,337.92,4.761904762,16.896,9.5
+INV-100453,C,Naypyitaw,Normal,Female,Health and beauty,29.59,1,1.4795,31.0695,2026-02-17,18:50,Ewallet,29.59,4.761904762,1.4795,8.6
+INV-100528,A,Yangon,Normal,Female,Health and beauty,62.64,2,6.264,131.544,2026-02-17,16:05,Credit card,125.28,4.761904762,6.264,4.8
+INV-100431,C,Naypyitaw,Normal,Male,Sports and travel,61.86,6,18.558,389.718,2026-02-17,14:19,Credit card,371.16,4.761904762,18.558,4.5
+INV-100759,C,Naypyitaw,Normal,Female,Food and beverages,80.34,7,28.119,590.499,2026-02-17,19:50,Cash,562.38,4.761904762,28.119,9.7
+INV-100957,A,Yangon,Member,Male,Home and lifestyle,95.62,10,47.81,1004.01,2026-02-17,17:26,Cash,956.2,4.761904762,47.81,6.0
+INV-100380,A,Yangon,Member,Male,Electronic accessories,90.0,2,9.0,189.0,2026-02-17,14:36,Ewallet,180.0,4.761904762,9.0,9.1
+INV-100868,C,Naypyitaw,Member,Female,Home and lifestyle,11.25,10,5.625,118.125,2026-02-17,13:20,Ewallet,112.5,4.761904762,5.625,5.9
+INV-100840,A,Yangon,Member,Female,Electronic accessories,27.65,5,6.9125,145.1625,2026-02-18,12:30,Credit card,138.25,4.761904762,6.9125,9.8
+INV-100044,A,Yangon,Normal,Male,Sports and travel,94.1,2,9.41,197.61,2026-02-18,19:48,Ewallet,188.2,4.761904762,9.41,6.7
+INV-100673,B,Mandalay,Normal,Female,Home and lifestyle,63.81,6,19.143,402.003,2026-02-18,10:36,Credit card,382.86,4.761904762,19.143,7.5
+INV-100636,B,Mandalay,Member,Male,Food and beverages,97.29,7,34.0515,715.0815,2026-02-18,12:09,Credit card,681.03,4.761904762,34.0515,7.1
+INV-100714,B,Mandalay,Member,Female,Fashion accessories,68.04,7,23.814,500.094,2026-02-18,13:50,Ewallet,476.28,4.761904762,23.814,7.7
+INV-100270,C,Naypyitaw,Normal,Female,Electronic accessories,24.66,7,8.631,181.251,2026-02-18,16:59,Cash,172.62,4.761904762,8.631,9.3
+INV-100012,C,Naypyitaw,Normal,Male,Electronic accessories,84.33,2,8.433,177.093,2026-02-18,10:33,Credit card,168.66,4.761904762,8.433,9.7
+INV-100196,C,Naypyitaw,Normal,Female,Food and beverages,13.77,2,1.377,28.917,2026-02-18,14:09,Cash,27.54,4.761904762,1.377,8.3
+INV-100407,A,Yangon,Normal,Female,Sports and travel,15.39,4,3.078,64.638,2026-02-19,16:18,Credit card,61.56,4.761904762,3.078,10.0
+INV-100741,A,Yangon,Normal,Female,Food and beverages,25.92,3,3.888,81.648,2026-02-19,12:55,Ewallet,77.76,4.761904762,3.888,8.5
+INV-100371,A,Yangon,Member,Male,Home and lifestyle,28.12,7,9.842,206.682,2026-02-19,10:09,Ewallet,196.84,4.761904762,9.842,9.6
+INV-100241,C,Naypyitaw,Normal,Female,Health and beauty,82.41,3,12.3615,259.5915,2026-02-19,15:06,Cash,247.23,4.761904762,12.3615,6.5
+INV-100245,C,Naypyitaw,Normal,Male,Fashion accessories,33.91,9,15.2595,320.4495,2026-02-19,15:22,Credit card,305.19,4.761904762,15.2595,8.3
+INV-100439,A,Yangon,Normal,Female,Home and lifestyle,46.55,8,18.62,391.02,2026-02-19,16:12,Ewallet,372.4,4.761904762,18.62,8.0
+INV-100955,B,Mandalay,Normal,Male,Electronic accessories,87.44,7,30.604,642.684,2026-02-19,16:21,Cash,612.08,4.761904762,30.604,7.1
+INV-100897,C,Naypyitaw,Member,Female,Sports and travel,38.1,5,9.525,200.025,2026-02-19,19:33,Cash,190.5,4.761904762,9.525,8.1
+INV-100210,B,Mandalay,Member,Male,Sports and travel,66.62,3,9.993,209.853,2026-02-19,16:37,Ewallet,199.86,4.761904762,9.993,6.2
+INV-100274,B,Mandalay,Member,Male,Home and lifestyle,97.62,10,48.81,1025.01,2026-02-19,12:09,Cash,976.2,4.761904762,48.81,7.5
+INV-100925,A,Yangon,Member,Male,Fashion accessories,43.28,1,2.164,45.444,2026-02-20,18:36,Credit card,43.28,4.761904762,2.164,5.0
+INV-100869,C,Naypyitaw,Normal,Female,Home and lifestyle,68.38,10,34.19,717.99,2026-02-20,11:35,Cash,683.8,4.761904762,34.19,9.2
+INV-100097,B,Mandalay,Member,Male,Health and beauty,93.75,7,32.8125,689.0625,2026-02-20,18:51,Ewallet,656.25,4.761904762,32.8125,5.4
+INV-100615,C,Naypyitaw,Normal,Female,Food and beverages,91.63,5,22.9075,481.0575,2026-02-20,19:54,Cash,458.15,4.761904762,22.9075,6.0
+INV-100943,C,Naypyitaw,Normal,Male,Food and beverages,78.74,4,15.748,330.708,2026-02-20,20:40,Ewallet,314.96,4.761904762,15.748,7.4
+INV-100823,B,Mandalay,Normal,Female,Sports and travel,56.18,7,19.663,412.923,2026-02-20,17:38,Credit card,393.26,4.761904762,19.663,4.2
+INV-100746,B,Mandalay,Member,Male,Sports and travel,38.35,9,17.2575,362.4075,2026-02-20,13:55,Credit card,345.15,4.761904762,17.2575,5.3
+INV-100131,A,Yangon,Member,Female,Food and beverages,14.74,4,2.948,61.908,2026-02-20,11:58,Ewallet,58.96,4.761904762,2.948,9.5
+INV-100954,B,Mandalay,Normal,Male,Fashion accessories,82.14,1,4.107,86.247,2026-02-20,11:21,Cash,82.14,4.761904762,4.107,7.5
+INV-100959,C,Naypyitaw,Normal,Male,Home and lifestyle,69.54,2,6.954,146.034,2026-02-20,19:59,Credit card,139.08,4.761904762,6.954,4.5
+INV-100022,A,Yangon,Normal,Male,Electronic accessories,64.97,6,19.491,409.311,2026-02-20,11:41,Cash,389.82,4.761904762,19.491,8.8
+INV-100646,B,Mandalay,Member,Male,Food and beverages,82.79,1,4.1395,86.9295,2026-02-20,19:49,Cash,82.79,4.761904762,4.1395,9.0
+INV-100989,C,Naypyitaw,Normal,Male,Health and beauty,85.41,6,25.623,538.083,2026-02-20,17:21,Credit card,512.46,4.761904762,25.623,9.5
+INV-100405,C,Naypyitaw,Member,Male,Electronic accessories,77.16,2,7.716,162.036,2026-02-20,14:17,Ewallet,154.32,4.761904762,7.716,7.0
+INV-100550,B,Mandalay,Normal,Female,Food and beverages,51.91,2,5.191,109.011,2026-02-20,19:26,Cash,103.82,4.761904762,5.191,8.0
+INV-100385,C,Naypyitaw,Member,Male,Home and lifestyle,32.75,2,3.275,68.775,2026-02-20,13:41,Credit card,65.5,4.761904762,3.275,6.3
+INV-100370,A,Yangon,Normal,Male,Food and beverages,86.47,10,43.235,907.935,2026-02-20,16:04,Cash,864.7,4.761904762,43.235,8.8
+INV-100172,B,Mandalay,Normal,Female,Food and beverages,47.55,5,11.8875,249.6375,2026-02-21,16:12,Ewallet,237.75,4.761904762,11.8875,8.7
+INV-100960,A,Yangon,Member,Female,Sports and travel,77.59,10,38.795,814.695,2026-02-21,17:59,Ewallet,775.9,4.761904762,38.795,6.6
+INV-100932,C,Naypyitaw,Normal,Female,Sports and travel,40.5,2,4.05,85.05,2026-02-21,16:47,Cash,81.0,4.761904762,4.05,9.0
+INV-100613,A,Yangon,Member,Male,Food and beverages,17.13,9,7.7085,161.8785,2026-02-21,16:06,Credit card,154.17,4.761904762,7.7085,7.8
+INV-100272,C,Naypyitaw,Normal,Female,Sports and travel,12.13,7,4.2455,89.1555,2026-02-21,17:20,Ewallet,84.91,4.761904762,4.2455,8.5
+INV-100034,C,Naypyitaw,Member,Male,Food and beverages,73.49,2,7.349,154.329,2026-02-21,16:24,Credit card,146.98,4.761904762,7.349,4.7
+INV-100042,A,Yangon,Member,Male,Home and lifestyle,40.87,5,10.2175,214.5675,2026-02-21,14:42,Cash,204.35,4.761904762,10.2175,5.4
+INV-100882,A,Yangon,Normal,Female,Health and beauty,74.74,7,26.159,549.339,2026-02-21,14:28,Ewallet,523.18,4.761904762,26.159,4.3
+INV-100486,A,Yangon,Member,Female,Fashion accessories,64.58,8,25.832,542.472,2026-02-21,20:48,Credit card,516.64,4.761904762,25.832,7.4
+INV-100226,C,Naypyitaw,Member,Female,Electronic accessories,85.89,10,42.945,901.845,2026-02-21,20:53,Ewallet,858.9,4.761904762,42.945,7.1
+INV-100588,A,Yangon,Member,Female,Sports and travel,68.28,9,30.726,645.246,2026-02-21,17:24,Cash,614.52,4.761904762,30.726,9.2
+INV-100887,A,Yangon,Member,Female,Sports and travel,90.67,4,18.134,380.814,2026-02-21,18:01,Credit card,362.68,4.761904762,18.134,5.2
+INV-100832,A,Yangon,Normal,Female,Fashion accessories,25.68,2,2.568,53.928,2026-02-21,16:02,Ewallet,51.36,4.761904762,2.568,9.3
+INV-100783,B,Mandalay,Normal,Male,Fashion accessories,56.71,7,19.8485,416.8185,2026-02-21,15:37,Cash,396.97,4.761904762,19.8485,9.3
+INV-100758,C,Naypyitaw,Member,Male,Food and beverages,41.46,4,8.292,174.132,2026-02-21,15:15,Credit card,165.84,4.761904762,8.292,6.5
+INV-100068,A,Yangon,Member,Female,Fashion accessories,69.65,6,20.895,438.795,2026-02-21,15:15,Cash,417.9,4.761904762,20.895,7.2
+INV-100968,B,Mandalay,Member,Male,Electronic accessories,70.93,4,14.186,297.906,2026-02-22,18:30,Credit card,283.72,4.761904762,14.186,4.7
+INV-100709,C,Naypyitaw,Normal,Female,Fashion accessories,14.38,1,0.719,15.099,2026-02-22,17:26,Cash,14.38,4.761904762,0.719,8.4
+INV-100356,A,Yangon,Normal,Male,Health and beauty,24.04,6,7.212,151.452,2026-02-22,10:32,Cash,144.24,4.761904762,7.212,9.7
+INV-100063,B,Mandalay,Member,Female,Home and lifestyle,83.48,6,25.044,525.924,2026-02-22,18:44,Ewallet,500.88,4.761904762,25.044,4.5
+INV-100220,B,Mandalay,Normal,Male,Electronic accessories,58.57,4,11.714,245.994,2026-02-22,13:15,Credit card,234.28,4.761904762,11.714,7.9
+INV-100448,B,Mandalay,Normal,Female,Fashion accessories,71.1,2,7.11,149.31,2026-02-23,20:16,Cash,142.2,4.761904762,7.11,7.2
+INV-100900,A,Yangon,Normal,Female,Sports and travel,97.79,9,44.0055,924.1155,2026-02-23,20:12,Ewallet,880.11,4.761904762,44.0055,7.9
+INV-100671,C,Naypyitaw,Normal,Female,Home and lifestyle,66.77,10,33.385,701.085,2026-02-23,16:07,Ewallet,667.7,4.761904762,33.385,7.0
+INV-100260,B,Mandalay,Member,Male,Food and beverages,25.37,10,12.685,266.385,2026-02-23,17:04,Ewallet,253.7,4.761904762,12.685,7.0
+INV-100912,B,Mandalay,Normal,Male,Home and lifestyle,61.7,6,18.51,388.71,2026-02-23,20:04,Cash,370.2,4.761904762,18.51,6.3
+INV-100079,A,Yangon,Normal,Male,Fashion accessories,40.76,1,2.038,42.798,2026-02-23,12:49,Ewallet,40.76,4.761904762,2.038,9.2
+INV-100361,B,Mandalay,Member,Female,Fashion accessories,61.94,6,18.582,390.222,2026-02-23,15:47,Ewallet,371.64,4.761904762,18.582,4.3
+INV-100520,B,Mandalay,Member,Male,Fashion accessories,49.83,5,12.4575,261.6075,2026-02-23,19:55,Ewallet,249.15,4.761904762,12.4575,4.5
+INV-100719,C,Naypyitaw,Member,Female,Food and beverages,16.94,6,5.082,106.722,2026-02-23,10:39,Ewallet,101.64,4.761904762,5.082,9.4
+INV-100352,B,Mandalay,Member,Male,Food and beverages,70.35,6,21.105,443.205,2026-02-23,18:51,Credit card,422.1,4.761904762,21.105,6.2
+INV-100731,C,Naypyitaw,Normal,Female,Fashion accessories,59.87,8,23.948,502.908,2026-02-23,17:28,Cash,478.96,4.761904762,23.948,4.8
+INV-100551,C,Naypyitaw,Normal,Female,Fashion accessories,27.08,2,2.708,56.868,2026-02-23,14:20,Credit card,54.16,4.761904762,2.708,6.4
+INV-100973,A,Yangon,Normal,Male,Fashion accessories,74.5,7,26.075,547.575,2026-02-23,19:35,Cash,521.5,4.761904762,26.075,4.9
+INV-100200,B,Mandalay,Normal,Male,Food and beverages,60.08,5,15.02,315.42,2026-02-23,17:49,Cash,300.4,4.761904762,15.02,5.2
+INV-100148,A,Yangon,Normal,Female,Fashion accessories,51.96,3,7.794,163.674,2026-02-24,11:26,Cash,155.88,4.761904762,7.794,9.4
+INV-100265,C,Naypyitaw,Member,Male,Food and beverages,45.34,2,4.534,95.214,2026-02-24,16:59,Cash,90.68,4.761904762,4.534,4.9
+INV-100660,B,Mandalay,Normal,Female,Home and lifestyle,44.45,10,22.225,466.725,2026-02-24,20:02,Credit card,444.5,4.761904762,22.225,5.3
+INV-100680,C,Naypyitaw,Member,Female,Health and beauty,61.39,4,12.278,257.838,2026-02-24,15:06,Ewallet,245.56,4.761904762,12.278,9.5
+INV-100994,B,Mandalay,Normal,Female,Electronic accessories,75.21,7,26.3235,552.7935,2026-02-24,12:54,Ewallet,526.47,4.761904762,26.3235,8.6
+INV-100617,A,Yangon,Normal,Female,Fashion accessories,36.64,4,7.328,153.888,2026-02-24,20:36,Cash,146.56,4.761904762,7.328,5.5
+INV-100191,C,Naypyitaw,Normal,Male,Food and beverages,16.3,7,5.705,119.805,2026-02-24,13:27,Credit card,114.1,4.761904762,5.705,7.6
+INV-100702,A,Yangon,Member,Female,Food and beverages,15.58,4,3.116,65.436,2026-02-24,11:26,Credit card,62.32,4.761904762,3.116,5.7
+INV-100566,B,Mandalay,Normal,Female,Health and beauty,47.06,4,9.412,197.652,2026-02-24,14:45,Cash,188.24,4.761904762,9.412,9.4
+INV-100021,A,Yangon,Member,Male,Sports and travel,33.87,8,13.548,284.508,2026-02-24,10:49,Ewallet,270.96,4.761904762,13.548,6.7
+INV-100381,C,Naypyitaw,Member,Male,Home and lifestyle,99.18,1,4.959,104.139,2026-02-24,16:01,Cash,99.18,4.761904762,4.959,6.3
+INV-100490,B,Mandalay,Member,Female,Health and beauty,38.31,2,3.831,80.451,2026-02-24,13:02,Ewallet,76.62,4.761904762,3.831,7.6
+INV-100984,C,Naypyitaw,Member,Male,Health and beauty,51.43,5,12.8575,270.0075,2026-02-24,11:03,Cash,257.15,4.761904762,12.8575,9.1
+INV-100384,C,Naypyitaw,Normal,Female,Food and beverages,78.81,8,31.524,662.004,2026-02-24,17:48,Cash,630.48,4.761904762,31.524,6.2
+INV-100974,A,Yangon,Member,Female,Health and beauty,52.75,7,18.4625,387.7125,2026-02-24,16:00,Ewallet,369.25,4.761904762,18.4625,7.3
+INV-100206,A,Yangon,Normal,Female,Food and beverages,89.67,6,26.901,564.921,2026-02-24,18:16,Credit card,538.02,4.761904762,26.901,4.9
+INV-100442,B,Mandalay,Normal,Male,Home and lifestyle,36.37,3,5.4555,114.5655,2026-02-24,15:00,Cash,109.11,4.761904762,5.4555,9.0
+INV-100757,B,Mandalay,Member,Male,Electronic accessories,35.23,5,8.8075,184.9575,2026-02-25,20:53,Ewallet,176.15,4.761904762,8.8075,8.6
+INV-100569,B,Mandalay,Member,Male,Sports and travel,20.83,10,10.415,218.715,2026-02-25,11:13,Ewallet,208.3,4.761904762,10.415,5.4
+INV-100404,A,Yangon,Normal,Male,Home and lifestyle,66.22,3,9.933,208.593,2026-02-25,17:05,Ewallet,198.66,4.761904762,9.933,4.6
+INV-100160,B,Mandalay,Normal,Male,Sports and travel,93.94,8,37.576,789.096,2026-02-25,12:25,Credit card,751.52,4.761904762,37.576,4.5
+INV-100836,C,Naypyitaw,Member,Male,Fashion accessories,59.49,1,2.9745,62.4645,2026-02-25,13:06,Ewallet,59.49,4.761904762,2.9745,9.6
+INV-100250,A,Yangon,Normal,Female,Fashion accessories,71.86,10,35.93,754.53,2026-02-25,11:22,Credit card,718.6,4.761904762,35.93,4.1
+INV-100675,C,Naypyitaw,Member,Female,Fashion accessories,96.12,3,14.418,302.778,2026-02-25,17:25,Cash,288.36,4.761904762,14.418,8.6
+INV-100062,C,Naypyitaw,Normal,Male,Fashion accessories,91.3,4,18.26,383.46,2026-02-25,16:27,Ewallet,365.2,4.761904762,18.26,4.2
+INV-100134,C,Naypyitaw,Normal,Male,Fashion accessories,30.36,8,12.144,255.024,2026-02-25,19:29,Credit card,242.88,4.761904762,12.144,6.6
+INV-100628,A,Yangon,Member,Female,Food and beverages,52.87,6,15.861,333.081,2026-02-25,11:15,Ewallet,317.22,4.761904762,15.861,7.4
+INV-100998,C,Naypyitaw,Member,Female,Electronic accessories,14.24,10,7.12,149.52,2026-02-25,16:15,Ewallet,142.4,4.761904762,7.12,9.0
+INV-100242,C,Naypyitaw,Normal,Male,Sports and travel,95.11,10,47.555,998.655,2026-02-25,18:33,Cash,951.1,4.761904762,47.555,5.7
+INV-100950,B,Mandalay,Member,Male,Electronic accessories,68.05,7,23.8175,500.1675,2026-02-25,18:56,Cash,476.35,4.761904762,23.8175,7.8
+INV-100548,B,Mandalay,Member,Female,Fashion accessories,42.8,1,2.14,44.94,2026-02-25,10:31,Ewallet,42.8,4.761904762,2.14,8.9
+INV-100509,C,Naypyitaw,Normal,Male,Home and lifestyle,62.01,10,31.005,651.105,2026-02-25,11:18,Ewallet,620.1,4.761904762,31.005,7.1
+INV-100234,A,Yangon,Normal,Male,Food and beverages,10.57,7,3.6995,77.6895,2026-02-25,18:26,Credit card,73.99,4.761904762,3.6995,7.2
+INV-100491,B,Mandalay,Member,Female,Health and beauty,18.69,5,4.6725,98.1225,2026-02-26,18:21,Credit card,93.45,4.761904762,4.6725,7.2
+INV-100015,A,Yangon,Normal,Female,Home and lifestyle,31.07,2,3.107,65.247,2026-02-26,17:36,Cash,62.14,4.761904762,3.107,9.1
+INV-100859,A,Yangon,Normal,Female,Food and beverages,65.33,7,22.8655,480.1755,2026-02-26,15:02,Credit card,457.31,4.761904762,22.8655,4.9
+INV-100213,A,Yangon,Normal,Male,Sports and travel,57.76,1,2.888,60.648,2026-02-26,10:22,Ewallet,57.76,4.761904762,2.888,8.8
+INV-100895,A,Yangon,Normal,Male,Sports and travel,78.15,3,11.7225,246.1725,2026-02-26,20:55,Credit card,234.45,4.761904762,11.7225,4.7
+INV-100816,B,Mandalay,Member,Female,Sports and travel,76.08,6,22.824,479.304,2026-02-26,19:44,Credit card,456.48,4.761904762,22.824,4.3
+INV-100443,B,Mandalay,Member,Male,Sports and travel,57.24,7,20.034,420.714,2026-02-26,16:08,Ewallet,400.68,4.761904762,20.034,8.5
+INV-100436,A,Yangon,Member,Female,Food and beverages,64.02,5,16.005,336.105,2026-02-26,13:50,Ewallet,320.1,4.761904762,16.005,4.6
+INV-100985,B,Mandalay,Member,Male,Food and beverages,84.5,2,8.45,177.45,2026-02-26,13:04,Cash,169.0,4.761904762,8.45,7.1
+INV-100571,C,Naypyitaw,Member,Male,Food and beverages,97.14,4,19.428,407.988,2026-02-26,12:26,Ewallet,388.56,4.761904762,19.428,5.9
+INV-100154,C,Naypyitaw,Normal,Female,Sports and travel,84.04,7,29.414,617.694,2026-02-26,15:06,Ewallet,588.28,4.761904762,29.414,6.8
+INV-100854,A,Yangon,Normal,Female,Home and lifestyle,32.19,7,11.2665,236.5965,2026-02-27,10:47,Cash,225.33,4.761904762,11.2665,4.4
+INV-100397,B,Mandalay,Member,Female,Home and lifestyle,61.72,4,12.344,259.224,2026-02-28,17:04,Ewallet,246.88,4.761904762,12.344,7.0
+INV-100977,A,Yangon,Member,Female,Sports and travel,25.13,2,2.513,52.773,2026-02-28,16:25,Credit card,50.26,4.761904762,2.513,4.3
+INV-100838,B,Mandalay,Normal,Male,Sports and travel,56.87,3,8.5305,179.1405,2026-02-28,13:52,Ewallet,170.61,4.761904762,8.5305,7.3
+INV-100511,B,Mandalay,Normal,Male,Health and beauty,72.98,1,3.649,76.629,2026-02-28,11:39,Ewallet,72.98,4.761904762,3.649,9.8
+INV-100935,A,Yangon,Normal,Female,Electronic accessories,19.8,9,8.91,187.11,2026-02-28,18:33,Cash,178.2,4.761904762,8.91,5.7
+INV-100279,C,Naypyitaw,Member,Female,Home and lifestyle,47.72,5,11.93,250.53,2026-02-28,13:24,Ewallet,238.6,4.761904762,11.93,6.8
+INV-100951,B,Mandalay,Member,Male,Home and lifestyle,55.9,4,11.18,234.78,2026-02-28,15:35,Credit card,223.6,4.761904762,11.18,4.9
+INV-100953,C,Naypyitaw,Normal,Female,Sports and travel,38.05,9,17.1225,359.5725,2026-02-28,11:39,Credit card,342.45,4.761904762,17.1225,7.0
+INV-100193,B,Mandalay,Normal,Male,Food and beverages,26.34,4,5.268,110.628,2026-02-28,16:25,Ewallet,105.36,4.761904762,5.268,4.5
+INV-100171,A,Yangon,Normal,Female,Electronic accessories,16.15,4,3.23,67.83,2026-02-28,19:21,Cash,64.6,4.761904762,3.23,7.9
+INV-100967,A,Yangon,Member,Male,Home and lifestyle,76.7,1,3.835,80.535,2026-02-28,14:32,Credit card,76.7,4.761904762,3.835,5.2
+INV-100041,B,Mandalay,Normal,Male,Electronic accessories,33.47,4,6.694,140.574,2026-02-28,19:21,Cash,133.88,4.761904762,6.694,8.2
+INV-100386,A,Yangon,Normal,Female,Sports and travel,87.81,10,43.905,922.005,2026-03-01,20:43,Credit card,878.1,4.761904762,43.905,4.6
+INV-100507,C,Naypyitaw,Normal,Female,Food and beverages,66.85,10,33.425,701.925,2026-03-01,15:23,Cash,668.5,4.761904762,33.425,5.8
+INV-100060,B,Mandalay,Normal,Female,Fashion accessories,77.77,2,7.777,163.317,2026-03-01,17:06,Ewallet,155.54,4.761904762,7.777,5.2
+INV-100469,C,Naypyitaw,Normal,Male,Food and beverages,46.14,2,4.614,96.894,2026-03-01,13:55,Credit card,92.28,4.761904762,4.614,8.9
+INV-100359,B,Mandalay,Normal,Female,Fashion accessories,81.36,9,36.612,768.852,2026-03-01,17:54,Credit card,732.24,4.761904762,36.612,5.1
+INV-100006,A,Yangon,Normal,Female,Food and beverages,70.9,2,7.09,148.89,2026-03-01,15:19,Ewallet,141.8,4.761904762,7.09,8.3
+INV-100435,C,Naypyitaw,Member,Female,Food and beverages,18.08,8,7.232,151.872,2026-03-01,12:14,Ewallet,144.64,4.761904762,7.232,9.6
+INV-100561,A,Yangon,Member,Male,Sports and travel,39.79,8,15.916,334.236,2026-03-01,18:20,Cash,318.32,4.761904762,15.916,5.0
+INV-100156,C,Naypyitaw,Member,Female,Electronic accessories,51.28,1,2.564,53.844,2026-03-01,10:06,Credit card,51.28,4.761904762,2.564,8.9
+INV-100052,C,Naypyitaw,Normal,Female,Fashion accessories,23.53,3,3.5295,74.1195,2026-03-01,18:19,Cash,70.59,4.761904762,3.5295,9.0
+INV-100329,A,Yangon,Member,Female,Electronic accessories,46.72,10,23.36,490.56,2026-03-01,17:29,Credit card,467.2,4.761904762,23.36,4.8
+INV-100482,B,Mandalay,Normal,Male,Food and beverages,56.25,4,11.25,236.25,2026-03-01,14:55,Cash,225.0,4.761904762,11.25,5.0
+INV-100862,B,Mandalay,Member,Male,Food and beverages,25.45,2,2.545,53.445,2026-03-01,16:30,Credit card,50.9,4.761904762,2.545,5.6
+INV-100884,C,Naypyitaw,Member,Female,Home and lifestyle,89.09,7,31.1815,654.8115,2026-03-01,15:28,Ewallet,623.63,4.761904762,31.1815,10.0
+INV-100422,A,Yangon,Member,Male,Electronic accessories,66.76,5,16.69,350.49,2026-03-02,10:35,Ewallet,333.8,4.761904762,16.69,6.0
+INV-100411,C,Naypyitaw,Member,Female,Food and beverages,14.05,6,4.215,88.515,2026-03-02,12:59,Ewallet,84.3,4.761904762,4.215,9.2
+INV-100368,A,Yangon,Member,Female,Sports and travel,39.69,9,17.8605,375.0705,2026-03-02,12:57,Ewallet,357.21,4.761904762,17.8605,7.6
+INV-100425,B,Mandalay,Normal,Male,Electronic accessories,25.7,5,6.425,134.925,2026-03-02,11:04,Credit card,128.5,4.761904762,6.425,6.9
+INV-100524,C,Naypyitaw,Member,Male,Home and lifestyle,21.29,9,9.5805,201.1905,2026-03-02,18:18,Credit card,191.61,4.761904762,9.5805,5.8
+INV-100009,C,Naypyitaw,Member,Female,Health and beauty,44.82,4,8.964,188.244,2026-03-02,14:28,Cash,179.28,4.761904762,8.964,9.9
+INV-100514,A,Yangon,Member,Male,Sports and travel,54.95,6,16.485,346.185,2026-03-02,20:43,Ewallet,329.7,4.761904762,16.485,6.5
+INV-100730,A,Yangon,Member,Male,Home and lifestyle,44.35,7,15.5225,325.9725,2026-03-02,19:04,Cash,310.45,4.761904762,15.5225,9.9
+INV-100787,B,Mandalay,Normal,Female,Fashion accessories,45.6,10,22.8,478.8,2026-03-02,19:59,Cash,456.0,4.761904762,22.8,5.0
+INV-100201,A,Yangon,Member,Female,Fashion accessories,30.8,6,9.24,194.04,2026-03-02,17:53,Credit card,184.8,4.761904762,9.24,6.6
+INV-100942,B,Mandalay,Normal,Female,Sports and travel,87.07,7,30.4745,639.9645,2026-03-02,11:43,Cash,609.49,4.761904762,30.4745,7.5
+INV-100266,C,Naypyitaw,Member,Male,Sports and travel,19.01,10,9.505,199.605,2026-03-02,10:31,Ewallet,190.1,4.761904762,9.505,8.2
+INV-100257,C,Naypyitaw,Member,Female,Health and beauty,59.13,1,2.9565,62.0865,2026-03-02,17:46,Credit card,59.13,4.761904762,2.9565,5.5
+INV-100924,B,Mandalay,Normal,Female,Home and lifestyle,91.74,7,32.109,674.289,2026-03-02,15:21,Cash,642.18,4.761904762,32.109,5.6
+INV-100051,C,Naypyitaw,Normal,Female,Fashion accessories,63.51,4,12.702,266.742,2026-03-02,12:28,Ewallet,254.04,4.761904762,12.702,9.9
+INV-100057,A,Yangon,Member,Female,Home and lifestyle,52.34,5,13.085,274.785,2026-03-02,20:59,Ewallet,261.7,4.761904762,13.085,5.7
+INV-100664,A,Yangon,Normal,Male,Food and beverages,83.76,1,4.188,87.948,2026-03-02,11:32,Credit card,83.76,4.761904762,4.188,8.7
+INV-100542,A,Yangon,Normal,Male,Fashion accessories,37.67,9,16.9515,355.9815,2026-03-03,20:23,Credit card,339.03,4.761904762,16.9515,8.2
+INV-100447,C,Naypyitaw,Normal,Female,Food and beverages,70.8,7,24.78,520.38,2026-03-03,18:25,Cash,495.6,4.761904762,24.78,8.8
+INV-100808,B,Mandalay,Member,Female,Home and lifestyle,12.27,2,1.227,25.767,2026-03-03,19:14,Credit card,24.54,4.761904762,1.227,9.5
+INV-100695,B,Mandalay,Member,Male,Electronic accessories,45.76,7,16.016,336.336,2026-03-03,15:16,Ewallet,320.32,4.761904762,16.016,7.8
+INV-100976,B,Mandalay,Member,Male,Health and beauty,44.47,6,13.341,280.161,2026-03-03,18:03,Cash,266.82,4.761904762,13.341,8.4
+INV-100167,A,Yangon,Normal,Female,Health and beauty,69.01,2,6.901,144.921,2026-03-03,19:49,Cash,138.02,4.761904762,6.901,6.5
+INV-100089,B,Mandalay,Member,Female,Food and beverages,49.0,8,19.6,411.6,2026-03-03,13:15,Ewallet,392.0,4.761904762,19.6,7.7
+INV-100603,A,Yangon,Member,Female,Fashion accessories,76.02,5,19.005,399.105,2026-03-03,20:10,Cash,380.1,4.761904762,19.005,5.6
+INV-100538,B,Mandalay,Member,Male,Fashion accessories,13.74,10,6.87,144.27,2026-03-03,13:22,Cash,137.4,4.761904762,6.87,6.2
+INV-100930,A,Yangon,Normal,Male,Home and lifestyle,95.97,7,33.5895,705.3795,2026-03-03,20:53,Ewallet,671.79,4.761904762,33.5895,7.0
+INV-100946,A,Yangon,Member,Male,Home and lifestyle,94.96,6,28.488,598.248,2026-03-03,11:49,Credit card,569.76,4.761904762,28.488,4.8
+INV-100952,A,Yangon,Normal,Male,Fashion accessories,20.78,8,8.312,174.552,2026-03-04,19:07,Cash,166.24,4.761904762,8.312,6.8
+INV-100949,B,Mandalay,Member,Male,Health and beauty,55.0,6,16.5,346.5,2026-03-04,17:51,Cash,330.0,4.761904762,16.5,5.8
+INV-100850,A,Yangon,Member,Male,Fashion accessories,61.43,2,6.143,129.003,2026-03-04,19:48,Credit card,122.86,4.761904762,6.143,7.8
+INV-100921,B,Mandalay,Member,Male,Sports and travel,34.2,6,10.26,215.46,2026-03-04,19:16,Ewallet,205.2,4.761904762,10.26,5.8
+INV-100885,A,Yangon,Member,Male,Food and beverages,14.42,4,2.884,60.564,2026-03-04,16:12,Ewallet,57.68,4.761904762,2.884,8.7
+INV-100818,A,Yangon,Normal,Female,Food and beverages,53.89,1,2.6945,56.5845,2026-03-04,17:48,Credit card,53.89,4.761904762,2.6945,6.7
+INV-100728,A,Yangon,Normal,Female,Sports and travel,95.31,8,38.124,800.604,2026-03-04,20:56,Ewallet,762.48,4.761904762,38.124,6.4
+INV-100515,A,Yangon,Member,Male,Home and lifestyle,75.65,8,30.26,635.46,2026-03-04,14:41,Cash,605.2,4.761904762,30.26,8.1
+INV-100820,C,Naypyitaw,Member,Male,Sports and travel,33.49,10,16.745,351.645,2026-03-04,16:26,Cash,334.9,4.761904762,16.745,4.8
+INV-100793,B,Mandalay,Normal,Female,Food and beverages,99.14,1,4.957,104.097,2026-03-04,13:13,Cash,99.14,4.761904762,4.957,8.2
+INV-100533,B,Mandalay,Member,Female,Sports and travel,62.64,10,31.32,657.72,2026-03-04,14:41,Cash,626.4,4.761904762,31.32,6.0
+INV-100055,C,Naypyitaw,Member,Male,Fashion accessories,55.09,8,22.036,462.756,2026-03-04,20:43,Ewallet,440.72,4.761904762,22.036,5.7
+INV-100221,B,Mandalay,Member,Male,Electronic accessories,85.94,7,30.079,631.659,2026-03-04,18:15,Ewallet,601.58,4.761904762,30.079,9.2
+INV-100725,C,Naypyitaw,Member,Female,Food and beverages,42.2,7,14.77,310.17,2026-03-05,17:42,Ewallet,295.4,4.761904762,14.77,9.8
+INV-100539,A,Yangon,Normal,Male,Sports and travel,54.78,9,24.651,517.671,2026-03-05,17:47,Ewallet,493.02,4.761904762,24.651,9.1
+INV-100165,C,Naypyitaw,Normal,Male,Home and lifestyle,46.66,3,6.999,146.979,2026-03-05,20:41,Credit card,139.98,4.761904762,6.999,8.0
+INV-100114,B,Mandalay,Normal,Male,Food and beverages,63.48,8,25.392,533.232,2026-03-05,16:08,Cash,507.84,4.761904762,25.392,5.1
+INV-100580,B,Mandalay,Member,Female,Home and lifestyle,41.89,3,6.2835,131.9535,2026-03-05,12:46,Credit card,125.67,4.761904762,6.2835,8.9
+INV-100804,B,Mandalay,Member,Male,Health and beauty,59.76,8,23.904,501.984,2026-03-05,19:39,Cash,478.08,4.761904762,23.904,6.4
+INV-100135,A,Yangon,Member,Male,Sports and travel,65.2,1,3.26,68.46,2026-03-05,19:45,Credit card,65.2,4.761904762,3.26,6.0
+INV-100995,A,Yangon,Normal,Male,Food and beverages,20.12,8,8.048,169.008,2026-03-05,15:59,Credit card,160.96,4.761904762,8.048,9.1
+INV-100166,A,Yangon,Normal,Male,Electronic accessories,24.49,9,11.0205,231.4305,2026-03-05,11:44,Cash,220.41,4.761904762,11.0205,7.5
+INV-100231,B,Mandalay,Member,Female,Home and lifestyle,39.24,10,19.62,412.02,2026-03-05,18:08,Ewallet,392.4,4.761904762,19.62,8.5
+INV-100093,B,Mandalay,Normal,Male,Food and beverages,91.13,2,9.113,191.373,2026-03-06,17:44,Credit card,182.26,4.761904762,9.113,7.1
+INV-100886,B,Mandalay,Member,Female,Sports and travel,30.77,8,12.308,258.468,2026-03-06,10:02,Cash,246.16,4.761904762,12.308,9.5
+INV-100978,B,Mandalay,Normal,Male,Electronic accessories,85.2,6,25.56,536.76,2026-03-06,20:03,Cash,511.2,4.761904762,25.56,9.3
+INV-100414,B,Mandalay,Normal,Female,Home and lifestyle,53.02,8,21.208,445.368,2026-03-06,15:41,Ewallet,424.16,4.761904762,21.208,5.2
+INV-100621,A,Yangon,Member,Male,Food and beverages,63.55,10,31.775,667.275,2026-03-06,11:35,Credit card,635.5,4.761904762,31.775,4.1
+INV-100331,C,Naypyitaw,Normal,Female,Home and lifestyle,15.1,1,0.755,15.855,2026-03-06,12:38,Credit card,15.1,4.761904762,0.755,7.3
+INV-100008,B,Mandalay,Member,Female,Fashion accessories,93.53,8,37.412,785.652,2026-03-06,11:15,Credit card,748.24,4.761904762,37.412,8.1
+INV-100451,B,Mandalay,Normal,Male,Health and beauty,10.1,10,5.05,106.05,2026-03-06,14:08,Credit card,101.0,4.761904762,5.05,9.2
+INV-100198,C,Naypyitaw,Normal,Male,Fashion accessories,25.12,2,2.512,52.752,2026-03-06,11:54,Credit card,50.24,4.761904762,2.512,9.4
+INV-100280,C,Naypyitaw,Normal,Female,Fashion accessories,14.55,6,4.365,91.665,2026-03-06,15:51,Ewallet,87.3,4.761904762,4.365,4.0
+INV-100803,B,Mandalay,Member,Male,Fashion accessories,52.41,4,10.482,220.122,2026-03-06,12:46,Ewallet,209.64,4.761904762,10.482,7.8
+INV-100811,C,Naypyitaw,Normal,Male,Fashion accessories,60.69,1,3.0345,63.7245,2026-03-06,17:42,Cash,60.69,4.761904762,3.0345,8.9
+INV-100412,C,Naypyitaw,Member,Female,Home and lifestyle,76.0,5,19.0,399.0,2026-03-07,15:34,Credit card,380.0,4.761904762,19.0,8.9
+INV-100743,B,Mandalay,Member,Female,Health and beauty,96.01,1,4.8005,100.8105,2026-03-07,11:58,Ewallet,96.01,4.761904762,4.8005,8.9
+INV-100896,A,Yangon,Normal,Male,Fashion accessories,78.32,8,31.328,657.888,2026-03-07,19:06,Cash,626.56,4.761904762,31.328,7.7
+INV-100377,A,Yangon,Normal,Male,Food and beverages,11.46,4,2.292,48.132,2026-03-07,15:39,Ewallet,45.84,4.761904762,2.292,4.7
+INV-100692,B,Mandalay,Member,Female,Home and lifestyle,28.19,2,2.819,59.199,2026-03-07,15:52,Credit card,56.38,4.761904762,2.819,7.4
+INV-100367,C,Naypyitaw,Normal,Male,Sports and travel,48.43,7,16.9505,355.9605,2026-03-07,20:09,Credit card,339.01,4.761904762,16.9505,9.6
+INV-100464,C,Naypyitaw,Normal,Male,Health and beauty,18.49,9,8.3205,174.7305,2026-03-07,14:09,Cash,166.41,4.761904762,8.3205,6.3
+INV-100837,B,Mandalay,Member,Female,Electronic accessories,46.62,1,2.331,48.951,2026-03-07,14:20,Cash,46.62,4.761904762,2.331,9.7
+INV-100849,B,Mandalay,Normal,Female,Health and beauty,92.08,4,18.416,386.736,2026-03-07,15:53,Ewallet,368.32,4.761904762,18.416,8.8
+INV-100409,A,Yangon,Normal,Female,Food and beverages,64.48,2,6.448,135.408,2026-03-07,18:39,Cash,128.96,4.761904762,6.448,6.2
+INV-100771,C,Naypyitaw,Normal,Female,Health and beauty,75.71,3,11.3565,238.4865,2026-03-07,20:59,Cash,227.13,4.761904762,11.3565,6.6
+INV-100907,B,Mandalay,Member,Female,Food and beverages,96.81,1,4.8405,101.6505,2026-03-07,11:27,Credit card,96.81,4.761904762,4.8405,8.3
+INV-100565,B,Mandalay,Member,Female,Home and lifestyle,50.83,7,17.7905,373.6005,2026-03-07,16:59,Credit card,355.81,4.761904762,17.7905,4.2
+INV-100586,A,Yangon,Normal,Female,Home and lifestyle,69.31,2,6.931,145.551,2026-03-07,19:18,Credit card,138.62,4.761904762,6.931,10.0
+INV-100298,B,Mandalay,Normal,Female,Health and beauty,43.69,2,4.369,91.749,2026-03-07,15:01,Ewallet,87.38,4.761904762,4.369,10.0
+INV-100007,C,Naypyitaw,Normal,Male,Food and beverages,60.86,8,24.344,511.224,2026-03-08,10:32,Credit card,486.88,4.761904762,24.344,5.4
+INV-100252,C,Naypyitaw,Member,Male,Sports and travel,94.37,10,47.185,990.885,2026-03-08,11:31,Credit card,943.7,4.761904762,47.185,5.4
+INV-100324,C,Naypyitaw,Normal,Male,Health and beauty,78.34,3,11.751,246.771,2026-03-08,15:54,Cash,235.02,4.761904762,11.751,8.8
+INV-100320,B,Mandalay,Member,Male,Sports and travel,57.64,8,23.056,484.176,2026-03-08,12:43,Ewallet,461.12,4.761904762,23.056,7.1
+INV-100050,C,Naypyitaw,Normal,Female,Home and lifestyle,24.63,5,6.1575,129.3075,2026-03-08,19:29,Cash,123.15,4.761904762,6.1575,7.6
+INV-100255,B,Mandalay,Member,Male,Electronic accessories,30.02,5,7.505,157.605,2026-03-08,20:34,Credit card,150.1,4.761904762,7.505,8.8
+INV-100631,C,Naypyitaw,Member,Male,Sports and travel,80.43,10,40.215,844.515,2026-03-08,15:37,Ewallet,804.3,4.761904762,40.215,6.4
+INV-100649,B,Mandalay,Normal,Female,Home and lifestyle,98.33,6,29.499,619.479,2026-03-08,11:45,Ewallet,589.98,4.761904762,29.499,9.8
+INV-100168,A,Yangon,Member,Male,Health and beauty,97.31,3,14.5965,306.5265,2026-03-09,19:15,Cash,291.93,4.761904762,14.5965,5.2
+INV-100526,B,Mandalay,Member,Female,Sports and travel,19.71,8,7.884,165.564,2026-03-09,10:11,Cash,157.68,4.761904762,7.884,6.3
+INV-100936,A,Yangon,Member,Male,Home and lifestyle,32.34,8,12.936,271.656,2026-03-09,17:13,Credit card,258.72,4.761904762,12.936,9.4
+INV-100905,C,Naypyitaw,Member,Female,Fashion accessories,78.85,3,11.8275,248.3775,2026-03-09,11:58,Cash,236.55,4.761904762,11.8275,8.1
+INV-100831,B,Mandalay,Normal,Male,Electronic accessories,94.64,5,23.66,496.86,2026-03-09,16:15,Cash,473.2,4.761904762,23.66,4.6
+INV-100127,C,Naypyitaw,Member,Female,Food and beverages,97.18,3,14.577,306.117,2026-03-09,16:12,Credit card,291.54,4.761904762,14.577,6.3
+INV-100576,A,Yangon,Member,Male,Health and beauty,24.56,10,12.28,257.88,2026-03-09,14:30,Cash,245.6,4.761904762,12.28,8.4
+INV-100979,B,Mandalay,Normal,Male,Electronic accessories,59.35,10,29.675,623.175,2026-03-09,13:48,Ewallet,593.5,4.761904762,29.675,8.2
+INV-100389,C,Naypyitaw,Member,Male,Home and lifestyle,98.03,8,39.212,823.452,2026-03-09,17:19,Credit card,784.24,4.761904762,39.212,7.5
+INV-100349,B,Mandalay,Member,Female,Sports and travel,24.05,4,4.81,101.01,2026-03-09,18:59,Credit card,96.2,4.761904762,4.81,4.6
+INV-100919,A,Yangon,Member,Female,Fashion accessories,30.88,10,15.44,324.24,2026-03-09,10:10,Credit card,308.8,4.761904762,15.44,8.2
+INV-100891,C,Naypyitaw,Member,Male,Food and beverages,87.23,4,17.446,366.366,2026-03-09,14:05,Cash,348.92,4.761904762,17.446,9.0
+INV-100699,B,Mandalay,Normal,Male,Sports and travel,85.44,9,38.448,807.408,2026-03-09,20:26,Ewallet,768.96,4.761904762,38.448,5.8
+INV-100747,B,Mandalay,Member,Female,Electronic accessories,45.34,2,4.534,95.214,2026-03-09,13:02,Ewallet,90.68,4.761904762,4.534,6.8
+INV-100826,B,Mandalay,Member,Male,Food and beverages,54.61,6,16.383,344.043,2026-03-09,15:25,Cash,327.66,4.761904762,16.383,6.6
+INV-100873,B,Mandalay,Normal,Female,Sports and travel,11.81,2,1.181,24.801,2026-03-09,13:11,Cash,23.62,4.761904762,1.181,5.2
+INV-100500,C,Naypyitaw,Normal,Male,Home and lifestyle,39.39,9,17.7255,372.2355,2026-03-10,19:12,Credit card,354.51,4.761904762,17.7255,5.5
+INV-100071,A,Yangon,Member,Male,Electronic accessories,89.52,7,31.332,657.972,2026-03-10,10:30,Credit card,626.64,4.761904762,31.332,6.8
+INV-100205,A,Yangon,Normal,Male,Sports and travel,29.82,1,1.491,31.311,2026-03-10,14:14,Ewallet,29.82,4.761904762,1.491,7.1
+INV-100931,C,Naypyitaw,Normal,Male,Electronic accessories,43.86,4,8.772,184.212,2026-03-10,17:47,Cash,175.44,4.761904762,8.772,8.7
+INV-100073,C,Naypyitaw,Member,Male,Food and beverages,91.73,1,4.5865,96.3165,2026-03-10,11:59,Credit card,91.73,4.761904762,4.5865,8.1
+INV-100027,B,Mandalay,Normal,Male,Home and lifestyle,89.55,8,35.82,752.22,2026-03-10,10:30,Credit card,716.4,4.761904762,35.82,7.2
+INV-100049,A,Yangon,Member,Female,Health and beauty,18.3,5,4.575,96.075,2026-03-10,10:53,Credit card,91.5,4.761904762,4.575,9.8
+INV-100720,C,Naypyitaw,Member,Male,Health and beauty,25.27,4,5.054,106.134,2026-03-10,12:14,Cash,101.08,4.761904762,5.054,8.9
+INV-100655,A,Yangon,Normal,Female,Home and lifestyle,67.89,2,6.789,142.569,2026-03-10,10:53,Cash,135.78,4.761904762,6.789,6.9
+INV-100495,B,Mandalay,Normal,Female,Health and beauty,57.82,7,20.237,424.977,2026-03-10,13:53,Ewallet,404.74,4.761904762,20.237,9.3
+INV-100289,B,Mandalay,Member,Female,Health and beauty,13.62,9,6.129,128.709,2026-03-10,19:05,Cash,122.58,4.761904762,6.129,4.9
+INV-100253,A,Yangon,Member,Male,Food and beverages,26.29,2,2.629,55.209,2026-03-10,11:44,Cash,52.58,4.761904762,2.629,6.4
+INV-100065,B,Mandalay,Normal,Male,Sports and travel,15.0,6,4.5,94.5,2026-03-10,20:08,Ewallet,90.0,4.761904762,4.5,7.8
+INV-100290,A,Yangon,Member,Male,Health and beauty,62.89,2,6.289,132.069,2026-03-10,16:27,Cash,125.78,4.761904762,6.289,8.6
+INV-100366,C,Naypyitaw,Normal,Female,Food and beverages,46.97,4,9.394,197.274,2026-03-11,16:59,Credit card,187.88,4.761904762,9.394,7.2
+INV-100028,B,Mandalay,Member,Female,Sports and travel,76.44,4,15.288,321.048,2026-03-11,10:58,Cash,305.76,4.761904762,15.288,8.5
+INV-100488,C,Naypyitaw,Member,Male,Electronic accessories,31.6,10,15.8,331.8,2026-03-11,18:45,Cash,316.0,4.761904762,15.8,8.5
+INV-100489,C,Naypyitaw,Member,Female,Electronic accessories,18.54,6,5.562,116.802,2026-03-11,14:49,Ewallet,111.24,4.761904762,5.562,5.8
+INV-100427,C,Naypyitaw,Normal,Male,Electronic accessories,69.68,5,17.42,365.82,2026-03-11,17:27,Cash,348.4,4.761904762,17.42,6.9
+INV-100125,B,Mandalay,Normal,Male,Fashion accessories,98.42,9,44.289,930.069,2026-03-11,17:32,Cash,885.78,4.761904762,44.289,9.0
+INV-100790,A,Yangon,Member,Male,Health and beauty,95.34,5,23.835,500.535,2026-03-11,17:49,Ewallet,476.7,4.761904762,23.835,8.7
+INV-100824,B,Mandalay,Normal,Female,Fashion accessories,35.91,4,7.182,150.822,2026-03-11,17:00,Credit card,143.64,4.761904762,7.182,4.4
+INV-100964,A,Yangon,Normal,Male,Food and beverages,87.18,2,8.718,183.078,2026-03-11,12:20,Ewallet,174.36,4.761904762,8.718,8.1
+INV-100465,B,Mandalay,Member,Female,Home and lifestyle,84.75,4,16.95,355.95,2026-03-11,13:27,Ewallet,339.0,4.761904762,16.95,8.5
+INV-100870,B,Mandalay,Normal,Male,Electronic accessories,70.13,4,14.026,294.546,2026-03-11,13:52,Credit card,280.52,4.761904762,14.026,5.4
+INV-100665,A,Yangon,Normal,Female,Food and beverages,84.29,7,29.5015,619.5315,2026-03-11,12:35,Cash,590.03,4.761904762,29.5015,5.9
+INV-100395,C,Naypyitaw,Normal,Female,Fashion accessories,64.22,1,3.211,67.431,2026-03-11,17:41,Cash,64.22,4.761904762,3.211,9.0
+INV-100948,C,Naypyitaw,Member,Female,Electronic accessories,39.81,4,7.962,167.202,2026-03-11,20:13,Credit card,159.24,4.761904762,7.962,8.1
+INV-100321,C,Naypyitaw,Member,Male,Home and lifestyle,24.51,9,11.0295,231.6195,2026-03-12,20:18,Ewallet,220.59,4.761904762,11.0295,8.8
+INV-100053,C,Naypyitaw,Normal,Male,Electronic accessories,97.03,9,43.6635,916.9335,2026-03-12,19:32,Ewallet,873.27,4.761904762,43.6635,4.2
+INV-100893,B,Mandalay,Member,Male,Food and beverages,70.67,9,31.8015,667.8315,2026-03-12,18:06,Credit card,636.03,4.761904762,31.8015,6.5
+INV-100106,B,Mandalay,Member,Male,Food and beverages,82.01,10,41.005,861.105,2026-03-12,13:14,Cash,820.1,4.761904762,41.005,7.3
+INV-100642,A,Yangon,Normal,Male,Health and beauty,62.2,10,31.1,653.1,2026-03-12,16:43,Credit card,622.0,4.761904762,31.1,6.7
+INV-100458,A,Yangon,Member,Female,Home and lifestyle,75.52,4,15.104,317.184,2026-03-12,20:00,Ewallet,302.08,4.761904762,15.104,6.3
+INV-100145,A,Yangon,Normal,Male,Health and beauty,39.5,3,5.925,124.425,2026-03-12,12:19,Cash,118.5,4.761904762,5.925,9.5
+INV-100437,C,Naypyitaw,Normal,Female,Fashion accessories,40.65,9,18.2925,384.1425,2026-03-12,14:47,Credit card,365.85,4.761904762,18.2925,9.1
+INV-100696,A,Yangon,Member,Male,Food and beverages,56.0,2,5.6,117.6,2026-03-12,14:07,Ewallet,112.0,4.761904762,5.6,9.3
+INV-100519,A,Yangon,Normal,Male,Home and lifestyle,35.58,8,14.232,298.872,2026-03-12,13:12,Credit card,284.64,4.761904762,14.232,4.7
+INV-100693,A,Yangon,Member,Female,Health and beauty,44.76,3,6.714,140.994,2026-03-12,18:42,Ewallet,134.28,4.761904762,6.714,4.3
+INV-100789,C,Naypyitaw,Normal,Male,Fashion accessories,24.27,3,3.6405,76.4505,2026-03-12,18:18,Cash,72.81,4.761904762,3.6405,9.8
+INV-100466,A,Yangon,Normal,Female,Food and beverages,92.56,2,9.256,194.376,2026-03-13,11:56,Credit card,185.12,4.761904762,9.256,8.0
+INV-100812,A,Yangon,Member,Male,Sports and travel,33.48,1,1.674,35.154,2026-03-13,11:50,Ewallet,33.48,4.761904762,1.674,6.5
+INV-100307,A,Yangon,Normal,Male,Fashion accessories,93.64,1,4.682,98.322,2026-03-13,13:59,Ewallet,93.64,4.761904762,4.682,9.5
+INV-100066,A,Yangon,Member,Female,Electronic accessories,10.62,2,1.062,22.302,2026-03-13,14:24,Credit card,21.24,4.761904762,1.062,8.5
+INV-100233,B,Mandalay,Member,Male,Fashion accessories,34.45,3,5.1675,108.5175,2026-03-13,17:16,Ewallet,103.35,4.761904762,5.1675,7.1
+INV-100788,B,Mandalay,Member,Male,Sports and travel,21.96,6,6.588,138.348,2026-03-13,14:59,Cash,131.76,4.761904762,6.588,8.5
+INV-100432,B,Mandalay,Member,Male,Electronic accessories,60.7,1,3.035,63.735,2026-03-13,18:02,Credit card,60.7,4.761904762,3.035,7.2
+INV-100890,C,Naypyitaw,Member,Female,Sports and travel,22.42,5,5.605,117.705,2026-03-13,16:37,Ewallet,112.1,4.761904762,5.605,7.1
+INV-100082,A,Yangon,Member,Female,Fashion accessories,20.78,7,7.273,152.733,2026-03-13,14:34,Credit card,145.46,4.761904762,7.273,6.0
+INV-100400,A,Yangon,Member,Female,Electronic accessories,79.1,7,27.685,581.385,2026-03-13,10:59,Credit card,553.7,4.761904762,27.685,6.6
+INV-100391,B,Mandalay,Member,Female,Electronic accessories,86.14,10,43.07,904.47,2026-03-13,18:03,Cash,861.4,4.761904762,43.07,8.3
+INV-100770,A,Yangon,Member,Female,Home and lifestyle,40.04,4,8.008,168.168,2026-03-13,19:08,Cash,160.16,4.761904762,8.008,9.8
+INV-100118,C,Naypyitaw,Member,Female,Fashion accessories,57.85,1,2.8925,60.7425,2026-03-13,19:32,Cash,57.85,4.761904762,2.8925,6.0
+INV-100152,A,Yangon,Normal,Male,Sports and travel,44.25,1,2.2125,46.4625,2026-03-13,19:55,Cash,44.25,4.761904762,2.2125,5.3
+INV-100865,B,Mandalay,Normal,Male,Food and beverages,35.47,8,14.188,297.948,2026-03-14,14:21,Ewallet,283.76,4.761904762,14.188,9.8
+INV-100103,B,Mandalay,Normal,Male,Home and lifestyle,39.38,3,5.907,124.047,2026-03-14,12:11,Credit card,118.14,4.761904762,5.907,5.6
+INV-100637,A,Yangon,Member,Male,Sports and travel,25.93,8,10.372,217.812,2026-03-14,17:40,Ewallet,207.44,4.761904762,10.372,5.7
+INV-100094,C,Naypyitaw,Member,Female,Electronic accessories,40.92,6,12.276,257.796,2026-03-14,10:16,Cash,245.52,4.761904762,12.276,9.9
+INV-100293,B,Mandalay,Normal,Male,Fashion accessories,58.92,9,26.514,556.794,2026-03-14,16:38,Ewallet,530.28,4.761904762,26.514,9.1
+INV-100178,C,Naypyitaw,Normal,Male,Electronic accessories,41.88,5,10.47,219.87,2026-03-14,20:07,Cash,209.4,4.761904762,10.47,8.5
+INV-100577,C,Naypyitaw,Normal,Male,Sports and travel,69.16,3,10.374,217.854,2026-03-14,10:46,Ewallet,207.48,4.761904762,10.374,7.7
+INV-100715,C,Naypyitaw,Normal,Female,Health and beauty,14.1,10,7.05,148.05,2026-03-14,10:06,Cash,141.0,4.761904762,7.05,7.7
+INV-100909,B,Mandalay,Member,Female,Electronic accessories,21.75,9,9.7875,205.5375,2026-03-14,16:57,Ewallet,195.75,4.761904762,9.7875,5.4
+INV-100271,C,Naypyitaw,Normal,Female,Sports and travel,31.02,9,13.959,293.139,2026-03-14,15:17,Cash,279.18,4.761904762,13.959,9.3
+INV-100883,A,Yangon,Normal,Female,Electronic accessories,35.82,1,1.791,37.611,2026-03-15,10:47,Cash,35.82,4.761904762,1.791,4.5
+INV-100333,A,Yangon,Normal,Male,Sports and travel,45.23,5,11.3075,237.4575,2026-03-15,20:31,Ewallet,226.15,4.761904762,11.3075,5.6
+INV-100871,A,Yangon,Member,Male,Electronic accessories,81.8,9,36.81,773.01,2026-03-15,18:22,Cash,736.2,4.761904762,36.81,7.6
+INV-100037,A,Yangon,Normal,Female,Food and beverages,38.04,1,1.902,39.942,2026-03-15,10:08,Cash,38.04,4.761904762,1.902,9.0
+INV-100362,B,Mandalay,Normal,Female,Health and beauty,87.86,10,43.93,922.53,2026-03-15,16:28,Ewallet,878.6,4.761904762,43.93,8.0
+INV-100961,B,Mandalay,Member,Female,Sports and travel,82.99,6,24.897,522.837,2026-03-15,10:09,Ewallet,497.94,4.761904762,24.897,6.1
+INV-100679,C,Naypyitaw,Normal,Male,Fashion accessories,66.25,6,19.875,417.375,2026-03-15,19:16,Cash,397.5,4.761904762,19.875,8.5
+INV-100574,C,Naypyitaw,Member,Female,Fashion accessories,40.5,9,18.225,382.725,2026-03-15,19:59,Credit card,364.5,4.761904762,18.225,6.4
+INV-100776,A,Yangon,Normal,Female,Home and lifestyle,87.89,2,8.789,184.569,2026-03-15,14:57,Credit card,175.78,4.761904762,8.789,7.3
+INV-100781,B,Mandalay,Normal,Male,Fashion accessories,59.32,10,29.66,622.86,2026-03-15,20:18,Ewallet,593.2,4.761904762,29.66,8.6
+INV-100456,A,Yangon,Normal,Female,Electronic accessories,63.35,1,3.1675,66.5175,2026-03-15,12:40,Ewallet,63.35,4.761904762,3.1675,5.6
+INV-100111,A,Yangon,Member,Female,Electronic accessories,98.15,2,9.815,206.115,2026-03-16,15:48,Cash,196.3,4.761904762,9.815,7.6
+INV-100382,B,Mandalay,Normal,Male,Fashion accessories,36.44,10,18.22,382.62,2026-03-16,15:01,Credit card,364.4,4.761904762,18.22,5.9
+INV-100845,B,Mandalay,Member,Female,Fashion accessories,63.67,9,28.6515,601.6815,2026-03-16,17:21,Ewallet,573.03,4.761904762,28.6515,9.4
+INV-100390,C,Naypyitaw,Member,Female,Home and lifestyle,70.58,2,7.058,148.218,2026-03-16,14:32,Ewallet,141.16,4.761904762,7.058,7.5
+INV-100327,B,Mandalay,Normal,Female,Electronic accessories,34.11,10,17.055,358.155,2026-03-16,17:01,Ewallet,341.1,4.761904762,17.055,5.9
+INV-100879,A,Yangon,Normal,Female,Sports and travel,71.05,2,7.105,149.205,2026-03-16,18:48,Ewallet,142.1,4.761904762,7.105,7.5
+INV-100188,B,Mandalay,Member,Male,Electronic accessories,47.14,7,16.499,346.479,2026-03-17,14:25,Cash,329.98,4.761904762,16.499,6.4
+INV-100888,A,Yangon,Normal,Male,Health and beauty,33.03,6,9.909,208.089,2026-03-17,17:15,Credit card,198.18,4.761904762,9.909,9.8
+INV-100416,A,Yangon,Member,Female,Food and beverages,39.84,3,5.976,125.496,2026-03-17,20:58,Ewallet,119.52,4.761904762,5.976,5.9
+INV-100738,B,Mandalay,Member,Male,Fashion accessories,47.35,9,21.3075,447.4575,2026-03-17,20:45,Ewallet,426.15,4.761904762,21.3075,5.5
+INV-100927,B,Mandalay,Member,Male,Electronic accessories,90.64,8,36.256,761.376,2026-03-17,17:47,Credit card,725.12,4.761904762,36.256,5.5
+INV-100610,A,Yangon,Normal,Male,Food and beverages,41.06,8,16.424,344.904,2026-03-17,11:25,Cash,328.48,4.761904762,16.424,4.1
+INV-100499,C,Naypyitaw,Normal,Female,Home and lifestyle,83.04,7,29.064,610.344,2026-03-17,14:32,Cash,581.28,4.761904762,29.064,8.7
+INV-100813,C,Naypyitaw,Member,Female,Health and beauty,72.48,4,14.496,304.416,2026-03-17,13:45,Cash,289.92,4.761904762,14.496,6.0
+INV-100229,B,Mandalay,Member,Female,Electronic accessories,37.73,6,11.319,237.699,2026-03-17,15:46,Ewallet,226.38,4.761904762,11.319,5.6
+INV-100521,B,Mandalay,Normal,Female,Health and beauty,65.48,8,26.192,550.032,2026-03-17,11:35,Cash,523.84,4.761904762,26.192,7.5
+INV-100357,B,Mandalay,Member,Female,Food and beverages,98.86,1,4.943,103.803,2026-03-18,17:42,Cash,98.86,4.761904762,4.943,8.9
+INV-100039,B,Mandalay,Member,Female,Sports and travel,17.1,7,5.985,125.685,2026-03-18,19:47,Cash,119.7,4.761904762,5.985,5.7
+INV-100549,C,Naypyitaw,Normal,Female,Health and beauty,67.62,5,16.905,355.005,2026-03-18,12:59,Credit card,338.1,4.761904762,16.905,5.4
+INV-100497,A,Yangon,Member,Male,Fashion accessories,99.5,8,39.8,835.8,2026-03-18,20:09,Credit card,796.0,4.761904762,39.8,8.3
+INV-100343,B,Mandalay,Normal,Female,Sports and travel,31.62,3,4.743,99.603,2026-03-18,11:54,Ewallet,94.86,4.761904762,4.743,8.1
+INV-100567,B,Mandalay,Member,Female,Home and lifestyle,94.03,1,4.7015,98.7315,2026-03-18,14:36,Cash,94.03,4.761904762,4.7015,4.4
+INV-100598,A,Yangon,Member,Female,Sports and travel,46.09,8,18.436,387.156,2026-03-18,12:14,Ewallet,368.72,4.761904762,18.436,4.8
+INV-100019,A,Yangon,Member,Male,Health and beauty,70.04,9,31.518,661.878,2026-03-18,20:21,Cash,630.36,4.761904762,31.518,8.4
+INV-100284,B,Mandalay,Member,Female,Food and beverages,12.58,8,5.032,105.672,2026-03-18,14:22,Ewallet,100.64,4.761904762,5.032,8.0
+INV-100033,C,Naypyitaw,Member,Male,Electronic accessories,74.37,5,18.5925,390.4425,2026-03-18,13:24,Credit card,371.85,4.761904762,18.5925,9.8
+INV-100875,A,Yangon,Normal,Female,Home and lifestyle,89.67,3,13.4505,282.4605,2026-03-18,14:53,Cash,269.01,4.761904762,13.4505,8.5
+INV-100619,C,Naypyitaw,Normal,Female,Home and lifestyle,23.61,5,5.9025,123.9525,2026-03-18,19:40,Credit card,118.05,4.761904762,5.9025,7.1
+INV-100717,C,Naypyitaw,Normal,Male,Electronic accessories,85.71,6,25.713,539.973,2026-03-18,14:13,Cash,514.26,4.761904762,25.713,8.5
+INV-100821,A,Yangon,Member,Female,Sports and travel,47.68,5,11.92,250.32,2026-03-18,11:08,Cash,238.4,4.761904762,11.92,4.7
+INV-100277,B,Mandalay,Normal,Female,Fashion accessories,88.07,9,39.6315,832.2615,2026-03-18,18:46,Cash,792.63,4.761904762,39.6315,7.3
+INV-100369,A,Yangon,Member,Male,Health and beauty,60.72,10,30.36,637.56,2026-03-18,15:41,Ewallet,607.2,4.761904762,30.36,8.9
+INV-100304,C,Naypyitaw,Normal,Male,Sports and travel,30.17,7,10.5595,221.7495,2026-03-18,16:04,Credit card,211.19,4.761904762,10.5595,9.8
+INV-100662,B,Mandalay,Normal,Female,Electronic accessories,49.79,4,9.958,209.118,2026-03-18,10:11,Ewallet,199.16,4.761904762,9.958,8.1
+INV-100262,A,Yangon,Member,Male,Health and beauty,78.08,8,31.232,655.872,2026-03-18,11:12,Cash,624.64,4.761904762,31.232,5.3
+INV-100303,B,Mandalay,Normal,Female,Health and beauty,82.43,2,8.243,173.103,2026-03-18,12:05,Credit card,164.86,4.761904762,8.243,5.0
+INV-100316,B,Mandalay,Normal,Female,Home and lifestyle,54.28,4,10.856,227.976,2026-03-18,20:00,Cash,217.12,4.761904762,10.856,7.1
+INV-100541,B,Mandalay,Member,Male,Health and beauty,32.68,2,3.268,68.628,2026-03-19,20:41,Credit card,65.36,4.761904762,3.268,6.1
+INV-100100,A,Yangon,Member,Male,Food and beverages,69.07,2,6.907,145.047,2026-03-19,17:36,Ewallet,138.14,4.761904762,6.907,5.9
+INV-100219,C,Naypyitaw,Member,Female,Fashion accessories,84.88,1,4.244,89.124,2026-03-19,20:27,Cash,84.88,4.761904762,4.244,5.7
+INV-100358,C,Naypyitaw,Member,Male,Health and beauty,97.86,1,4.893,102.753,2026-03-19,16:25,Cash,97.86,4.761904762,4.893,7.4
+INV-100346,B,Mandalay,Member,Male,Electronic accessories,70.51,10,35.255,740.355,2026-03-19,10:16,Credit card,705.1,4.761904762,35.255,10.0
+INV-100766,C,Naypyitaw,Normal,Male,Sports and travel,46.83,2,4.683,98.343,2026-03-19,16:25,Cash,93.66,4.761904762,4.683,4.6
+INV-100014,A,Yangon,Normal,Male,Sports and travel,79.69,2,7.969,167.349,2026-03-19,17:37,Ewallet,159.38,4.761904762,7.969,8.2
+INV-100666,A,Yangon,Member,Female,Sports and travel,62.86,8,25.144,528.024,2026-03-20,13:32,Cash,502.88,4.761904762,25.144,6.0
+INV-100067,C,Naypyitaw,Member,Female,Home and lifestyle,29.1,7,10.185,213.885,2026-03-20,13:55,Cash,203.7,4.761904762,10.185,5.3
+INV-100688,C,Naypyitaw,Normal,Female,Food and beverages,17.2,5,4.3,90.3,2026-03-20,10:24,Credit card,86.0,4.761904762,4.3,8.4
+INV-100657,B,Mandalay,Member,Male,Food and beverages,14.91,7,5.2185,109.5885,2026-03-20,14:04,Ewallet,104.37,4.761904762,5.2185,7.2
+INV-100601,A,Yangon,Member,Female,Home and lifestyle,45.22,2,4.522,94.962,2026-03-20,20:16,Cash,90.44,4.761904762,4.522,5.8
+INV-100855,A,Yangon,Member,Female,Electronic accessories,37.55,6,11.265,236.565,2026-03-20,14:18,Cash,225.3,4.761904762,11.265,5.5
+INV-100302,B,Mandalay,Member,Male,Home and lifestyle,84.83,5,21.2075,445.3575,2026-03-20,12:00,Ewallet,424.15,4.761904762,21.2075,7.5
+INV-100587,A,Yangon,Member,Male,Sports and travel,49.74,5,12.435,261.135,2026-03-20,16:26,Credit card,248.7,4.761904762,12.435,4.9
+INV-100718,A,Yangon,Normal,Male,Food and beverages,36.67,7,12.8345,269.5245,2026-03-20,11:37,Cash,256.69,4.761904762,12.8345,5.7
+INV-100623,B,Mandalay,Normal,Male,Home and lifestyle,94.47,7,33.0645,694.3545,2026-03-21,13:55,Cash,661.29,4.761904762,33.0645,5.3
+INV-100164,A,Yangon,Member,Female,Food and beverages,52.76,7,18.466,387.786,2026-03-21,19:19,Ewallet,369.32,4.761904762,18.466,7.2
+INV-100184,A,Yangon,Member,Male,Electronic accessories,43.57,4,8.714,182.994,2026-03-21,18:43,Cash,174.28,4.761904762,8.714,4.4
+INV-100194,A,Yangon,Member,Female,Home and lifestyle,24.1,7,8.435,177.135,2026-03-21,15:33,Credit card,168.7,4.761904762,8.435,7.0
+INV-100941,B,Mandalay,Member,Male,Home and lifestyle,87.2,4,17.44,366.24,2026-03-21,18:46,Credit card,348.8,4.761904762,17.44,5.1
+INV-100215,A,Yangon,Member,Female,Food and beverages,48.52,7,16.982,356.622,2026-03-21,17:38,Ewallet,339.64,4.761904762,16.982,4.4
+INV-100568,C,Naypyitaw,Normal,Male,Fashion accessories,32.55,2,3.255,68.355,2026-03-21,10:20,Credit card,65.1,4.761904762,3.255,9.4
+INV-100296,C,Naypyitaw,Member,Female,Home and lifestyle,34.41,1,1.7205,36.1305,2026-03-21,11:05,Cash,34.41,4.761904762,1.7205,6.6
+INV-100030,B,Mandalay,Member,Female,Electronic accessories,35.32,5,8.83,185.43,2026-03-21,11:42,Credit card,176.6,4.761904762,8.83,7.8
+INV-100627,C,Naypyitaw,Normal,Male,Food and beverages,17.21,5,4.3025,90.3525,2026-03-21,19:05,Ewallet,86.05,4.761904762,4.3025,9.2
+INV-100170,C,Naypyitaw,Normal,Male,Food and beverages,74.26,1,3.713,77.973,2026-03-21,12:16,Ewallet,74.26,4.761904762,3.713,7.1
+INV-100745,C,Naypyitaw,Member,Male,Fashion accessories,75.51,2,7.551,158.571,2026-03-21,18:08,Ewallet,151.02,4.761904762,7.551,5.6
+INV-100667,A,Yangon,Normal,Male,Fashion accessories,41.74,9,18.783,394.443,2026-03-21,15:30,Ewallet,375.66,4.761904762,18.783,4.1
+INV-100394,B,Mandalay,Member,Male,Home and lifestyle,63.42,7,22.197,466.137,2026-03-21,13:10,Ewallet,443.94,4.761904762,22.197,6.0
+INV-100429,A,Yangon,Normal,Male,Health and beauty,14.53,9,6.5385,137.3085,2026-03-21,19:16,Credit card,130.77,4.761904762,6.5385,4.2
+INV-100691,B,Mandalay,Normal,Male,Food and beverages,26.58,5,6.645,139.545,2026-03-21,15:23,Credit card,132.9,4.761904762,6.645,6.8
+INV-100872,B,Mandalay,Normal,Male,Home and lifestyle,93.85,1,4.6925,98.5425,2026-03-21,11:37,Ewallet,93.85,4.761904762,4.6925,6.4
+INV-100876,C,Naypyitaw,Normal,Female,Electronic accessories,51.22,1,2.561,53.781,2026-03-21,12:56,Ewallet,51.22,4.761904762,2.561,8.0
+INV-100866,A,Yangon,Member,Male,Electronic accessories,45.99,7,16.0965,338.0265,2026-03-21,10:29,Cash,321.93,4.761904762,16.0965,7.6
+INV-100340,B,Mandalay,Member,Male,Sports and travel,36.73,1,1.8365,38.5665,2026-03-21,10:58,Cash,36.73,4.761904762,1.8365,6.0
+INV-100903,B,Mandalay,Member,Female,Sports and travel,37.27,1,1.8635,39.1335,2026-03-22,12:20,Credit card,37.27,4.761904762,1.8635,9.9
+INV-100137,C,Naypyitaw,Member,Male,Home and lifestyle,61.93,1,3.0965,65.0265,2026-03-22,19:22,Credit card,61.93,4.761904762,3.0965,5.7
+INV-100281,A,Yangon,Normal,Female,Food and beverages,13.54,9,6.093,127.953,2026-03-22,17:59,Ewallet,121.86,4.761904762,6.093,4.1
+INV-100647,C,Naypyitaw,Normal,Female,Home and lifestyle,95.45,9,42.9525,902.0025,2026-03-22,13:44,Credit card,859.05,4.761904762,42.9525,7.9
+INV-100291,A,Yangon,Member,Female,Health and beauty,45.75,9,20.5875,432.3375,2026-03-22,13:30,Ewallet,411.75,4.761904762,20.5875,8.7
+INV-100971,C,Naypyitaw,Normal,Female,Electronic accessories,25.18,3,3.777,79.317,2026-03-22,20:25,Ewallet,75.54,4.761904762,3.777,5.1
+INV-100268,B,Mandalay,Normal,Female,Fashion accessories,69.49,4,13.898,291.858,2026-03-22,18:20,Ewallet,277.96,4.761904762,13.898,6.8
+INV-100383,C,Naypyitaw,Member,Female,Fashion accessories,28.91,1,1.4455,30.3555,2026-03-22,18:38,Ewallet,28.91,4.761904762,1.4455,9.6
+INV-100309,A,Yangon,Normal,Female,Electronic accessories,50.46,10,25.23,529.83,2026-03-23,20:49,Cash,504.6,4.761904762,25.23,4.4
+INV-100132,A,Yangon,Member,Male,Sports and travel,72.21,8,28.884,606.564,2026-03-23,12:05,Ewallet,577.68,4.761904762,28.884,9.2
+INV-100796,C,Naypyitaw,Normal,Female,Electronic accessories,70.16,5,17.54,368.34,2026-03-23,12:41,Ewallet,350.8,4.761904762,17.54,6.9
+INV-100792,B,Mandalay,Normal,Male,Health and beauty,91.54,1,4.577,96.117,2026-03-23,13:01,Credit card,91.54,4.761904762,4.577,7.6
+INV-100244,A,Yangon,Normal,Male,Health and beauty,80.42,7,28.147,591.087,2026-03-23,16:11,Cash,562.94,4.761904762,28.147,6.9
+INV-100088,C,Naypyitaw,Normal,Male,Food and beverages,63.59,10,31.795,667.695,2026-03-23,19:27,Cash,635.9,4.761904762,31.795,8.3
+INV-100326,B,Mandalay,Member,Male,Sports and travel,23.42,4,4.684,98.364,2026-03-23,14:46,Cash,93.68,4.761904762,4.684,4.1
+INV-100428,B,Mandalay,Normal,Female,Food and beverages,96.78,5,24.195,508.095,2026-03-23,16:42,Ewallet,483.9,4.761904762,24.195,8.2
+INV-100752,B,Mandalay,Member,Female,Food and beverages,70.91,8,28.364,595.644,2026-03-23,12:35,Cash,567.28,4.761904762,28.364,4.5
+INV-100197,C,Naypyitaw,Normal,Male,Sports and travel,47.68,10,23.84,500.64,2026-03-23,19:47,Ewallet,476.8,4.761904762,23.84,5.1
+INV-100209,A,Yangon,Normal,Male,Home and lifestyle,67.12,6,20.136,422.856,2026-03-23,20:31,Cash,402.72,4.761904762,20.136,7.4
+INV-100706,A,Yangon,Normal,Female,Health and beauty,88.94,1,4.447,93.387,2026-03-24,12:04,Credit card,88.94,4.761904762,4.447,5.9
+INV-100563,A,Yangon,Member,Female,Electronic accessories,45.59,5,11.3975,239.3475,2026-03-24,13:17,Ewallet,227.95,4.761904762,11.3975,8.3
+INV-100814,C,Naypyitaw,Member,Male,Fashion accessories,61.01,10,30.505,640.605,2026-03-24,11:26,Credit card,610.1,4.761904762,30.505,8.5
+INV-100199,C,Naypyitaw,Member,Female,Electronic accessories,89.05,1,4.4525,93.5025,2026-03-24,13:42,Credit card,89.05,4.761904762,4.4525,6.6
+INV-100475,C,Naypyitaw,Normal,Male,Sports and travel,42.06,3,6.309,132.489,2026-03-24,16:32,Cash,126.18,4.761904762,6.309,7.9
+INV-100208,A,Yangon,Member,Female,Food and beverages,92.39,10,46.195,970.095,2026-03-24,20:17,Ewallet,923.9,4.761904762,46.195,8.4
+INV-100457,B,Mandalay,Normal,Male,Electronic accessories,11.46,7,4.011,84.231,2026-03-24,10:12,Ewallet,80.22,4.761904762,4.011,8.8
+INV-100354,A,Yangon,Member,Male,Fashion accessories,17.3,4,3.46,72.66,2026-03-24,12:45,Ewallet,69.2,4.761904762,3.46,8.7
+INV-100996,C,Naypyitaw,Normal,Female,Sports and travel,46.66,2,4.666,97.986,2026-03-24,16:37,Cash,93.32,4.761904762,4.666,8.6
+INV-100350,B,Mandalay,Normal,Male,Food and beverages,76.34,4,15.268,320.628,2026-03-24,17:22,Cash,305.36,4.761904762,15.268,7.5
+INV-100046,A,Yangon,Member,Female,Food and beverages,43.49,1,2.1745,45.6645,2026-03-24,11:28,Credit card,43.49,4.761904762,2.1745,6.5
+INV-100616,A,Yangon,Normal,Female,Home and lifestyle,45.63,10,22.815,479.115,2026-03-24,14:13,Cash,456.3,4.761904762,22.815,6.3
+INV-100749,B,Mandalay,Member,Male,Health and beauty,18.72,1,0.936,19.656,2026-03-25,14:47,Cash,18.72,4.761904762,0.936,8.4
+INV-100786,B,Mandalay,Normal,Male,Health and beauty,70.72,10,35.36,742.56,2026-03-25,14:23,Cash,707.2,4.761904762,35.36,8.2
+INV-100159,C,Naypyitaw,Member,Male,Food and beverages,20.67,9,9.3015,195.3315,2026-03-25,12:25,Cash,186.03,4.761904762,9.3015,5.2
+INV-100843,C,Naypyitaw,Normal,Male,Health and beauty,61.88,8,24.752,519.792,2026-03-25,15:26,Credit card,495.04,4.761904762,24.752,7.9
+INV-100530,C,Naypyitaw,Member,Male,Home and lifestyle,17.73,9,7.9785,167.5485,2026-03-25,11:26,Cash,159.57,4.761904762,7.9785,7.1
+INV-100653,C,Naypyitaw,Member,Female,Health and beauty,21.88,3,3.282,68.922,2026-03-25,19:15,Ewallet,65.64,4.761904762,3.282,5.1
+INV-100117,A,Yangon,Normal,Male,Health and beauty,69.22,10,34.61,726.81,2026-03-25,13:22,Ewallet,692.2,4.761904762,34.61,7.9
+INV-100724,B,Mandalay,Normal,Female,Sports and travel,32.1,7,11.235,235.935,2026-03-25,17:32,Credit card,224.7,4.761904762,11.235,4.6
+INV-100128,A,Yangon,Member,Male,Sports and travel,48.77,8,19.508,409.668,2026-03-25,12:45,Credit card,390.16,4.761904762,19.508,9.6
+INV-100342,A,Yangon,Normal,Female,Fashion accessories,46.98,8,18.792,394.632,2026-03-25,10:55,Ewallet,375.84,4.761904762,18.792,4.6
+INV-100990,C,Naypyitaw,Normal,Female,Electronic accessories,70.32,10,35.16,738.36,2026-03-26,10:36,Credit card,703.2,4.761904762,35.16,8.7
+INV-100916,A,Yangon,Normal,Male,Electronic accessories,48.43,5,12.1075,254.2575,2026-03-26,10:42,Cash,242.15,4.761904762,12.1075,9.1
+INV-100396,C,Naypyitaw,Member,Female,Electronic accessories,71.36,2,7.136,149.856,2026-03-26,10:46,Ewallet,142.72,4.761904762,7.136,5.9
+INV-100115,C,Naypyitaw,Normal,Female,Health and beauty,76.42,6,22.926,481.446,2026-03-26,19:58,Credit card,458.52,4.761904762,22.926,8.9
+INV-100297,A,Yangon,Member,Female,Fashion accessories,91.29,5,22.8225,479.2725,2026-03-26,16:15,Cash,456.45,4.761904762,22.8225,8.5
+INV-100537,A,Yangon,Normal,Female,Food and beverages,83.72,10,41.86,879.06,2026-03-27,15:27,Ewallet,837.2,4.761904762,41.86,8.8
+INV-100388,C,Naypyitaw,Normal,Male,Fashion accessories,21.32,4,4.264,89.544,2026-03-27,16:41,Ewallet,85.28,4.761904762,4.264,5.7
+INV-100424,A,Yangon,Normal,Female,Home and lifestyle,59.28,10,29.64,622.44,2026-03-27,12:45,Cash,592.8,4.761904762,29.64,5.7
+INV-100736,B,Mandalay,Member,Male,Health and beauty,46.93,1,2.3465,49.2765,2026-03-27,11:01,Cash,46.93,4.761904762,2.3465,5.1
+INV-100157,C,Naypyitaw,Normal,Female,Fashion accessories,37.27,6,11.181,234.801,2026-03-27,15:49,Credit card,223.62,4.761904762,11.181,9.4
+INV-100275,B,Mandalay,Member,Male,Home and lifestyle,22.18,1,1.109,23.289,2026-03-27,13:23,Credit card,22.18,4.761904762,1.109,8.7
+INV-100828,C,Naypyitaw,Normal,Female,Health and beauty,76.04,9,34.218,718.578,2026-03-27,18:51,Credit card,684.36,4.761904762,34.218,10.0
+INV-100477,B,Mandalay,Normal,Male,Food and beverages,11.16,9,5.022,105.462,2026-03-27,15:30,Ewallet,100.44,4.761904762,5.022,5.7
+INV-100933,B,Mandalay,Normal,Male,Health and beauty,15.61,6,4.683,98.343,2026-03-27,13:45,Credit card,93.66,4.761904762,4.683,7.5
+INV-100056,A,Yangon,Normal,Female,Sports and travel,32.17,9,14.4765,304.0065,2026-03-27,15:35,Cash,289.53,4.761904762,14.4765,7.4
+INV-100142,B,Mandalay,Normal,Male,Health and beauty,41.54,6,12.462,261.702,2026-03-27,14:27,Ewallet,249.24,4.761904762,12.462,7.7
+INV-100853,C,Naypyitaw,Normal,Male,Fashion accessories,27.86,7,9.751,204.771,2026-03-27,17:22,Ewallet,195.02,4.761904762,9.751,8.0
+INV-100267,C,Naypyitaw,Member,Male,Sports and travel,11.49,2,1.149,24.129,2026-03-27,15:50,Credit card,22.98,4.761904762,1.149,5.5
+INV-100240,C,Naypyitaw,Normal,Male,Food and beverages,70.33,7,24.6155,516.9255,2026-03-27,11:23,Credit card,492.31,4.761904762,24.6155,8.8
+INV-100047,B,Mandalay,Member,Male,Sports and travel,93.48,7,32.718,687.078,2026-03-28,16:14,Ewallet,654.36,4.761904762,32.718,4.9
+INV-100748,C,Naypyitaw,Normal,Male,Health and beauty,31.3,7,10.955,230.055,2026-03-28,12:25,Credit card,219.1,4.761904762,10.955,5.6
+INV-100492,A,Yangon,Member,Male,Fashion accessories,25.9,6,7.77,163.17,2026-03-28,14:18,Cash,155.4,4.761904762,7.77,4.0
+INV-100287,B,Mandalay,Member,Female,Home and lifestyle,80.78,8,32.312,678.552,2026-03-28,19:33,Ewallet,646.24,4.761904762,32.312,9.3
+INV-100844,A,Yangon,Normal,Male,Electronic accessories,90.07,3,13.5105,283.7205,2026-03-28,15:55,Cash,270.21,4.761904762,13.5105,7.5
+INV-100625,B,Mandalay,Normal,Male,Food and beverages,62.74,3,9.411,197.631,2026-03-28,16:46,Cash,188.22,4.761904762,9.411,4.3
+INV-100318,A,Yangon,Member,Female,Sports and travel,40.06,4,8.012,168.252,2026-03-28,13:47,Ewallet,160.24,4.761904762,8.012,5.6
+INV-100446,C,Naypyitaw,Normal,Female,Fashion accessories,81.22,6,24.366,511.686,2026-03-28,17:53,Credit card,487.32,4.761904762,24.366,4.7
+INV-100860,C,Naypyitaw,Normal,Male,Health and beauty,17.33,9,7.7985,163.7685,2026-03-28,11:27,Credit card,155.97,4.761904762,7.7985,6.7
+INV-100269,A,Yangon,Member,Male,Electronic accessories,64.16,2,6.416,134.736,2026-03-28,12:23,Cash,128.32,4.761904762,6.416,7.5
+INV-100087,B,Mandalay,Member,Male,Fashion accessories,36.96,2,3.696,77.616,2026-03-28,11:22,Cash,73.92,4.761904762,3.696,4.4
+INV-100851,C,Naypyitaw,Normal,Female,Food and beverages,26.25,5,6.5625,137.8125,2026-03-28,20:03,Ewallet,131.25,4.761904762,6.5625,5.8
+INV-100347,A,Yangon,Member,Female,Sports and travel,84.11,3,12.6165,264.9465,2026-03-28,12:03,Ewallet,252.33,4.761904762,12.6165,5.1
+INV-100640,A,Yangon,Normal,Female,Fashion accessories,46.45,8,18.58,390.18,2026-03-28,15:13,Cash,371.6,4.761904762,18.58,6.9
+INV-100656,A,Yangon,Normal,Male,Food and beverages,44.25,2,4.425,92.925,2026-03-28,12:56,Ewallet,88.5,4.761904762,4.425,8.0
+INV-100130,B,Mandalay,Normal,Female,Home and lifestyle,14.53,6,4.359,91.539,2026-03-28,15:05,Ewallet,87.18,4.761904762,4.359,8.0
+INV-100618,C,Naypyitaw,Normal,Male,Food and beverages,22.9,9,10.305,216.405,2026-03-28,12:55,Credit card,206.1,4.761904762,10.305,9.5
+INV-100991,C,Naypyitaw,Member,Male,Home and lifestyle,72.66,3,10.899,228.879,2026-03-29,11:07,Ewallet,217.98,4.761904762,10.899,6.7
+INV-100288,A,Yangon,Member,Female,Electronic accessories,37.55,5,9.3875,197.1375,2026-03-29,16:55,Ewallet,187.75,4.761904762,9.3875,6.7
+INV-100036,A,Yangon,Member,Female,Home and lifestyle,99.01,1,4.9505,103.9605,2026-03-29,14:20,Ewallet,99.01,4.761904762,4.9505,7.0
+INV-100880,A,Yangon,Normal,Female,Sports and travel,93.76,5,23.44,492.24,2026-03-29,14:41,Credit card,468.8,4.761904762,23.44,7.3
+INV-100797,B,Mandalay,Member,Male,Health and beauty,53.49,1,2.6745,56.1645,2026-03-29,17:31,Ewallet,53.49,4.761904762,2.6745,7.2
+INV-100762,A,Yangon,Member,Male,Fashion accessories,88.6,1,4.43,93.03,2026-03-29,15:25,Ewallet,88.6,4.761904762,4.43,4.4
+INV-100099,A,Yangon,Member,Female,Health and beauty,60.94,1,3.047,63.987,2026-03-29,14:31,Credit card,60.94,4.761904762,3.047,8.5
+INV-100143,A,Yangon,Normal,Female,Electronic accessories,42.59,9,19.1655,402.4755,2026-03-29,14:22,Credit card,383.31,4.761904762,19.1655,6.9
+INV-100622,B,Mandalay,Normal,Female,Home and lifestyle,17.25,8,6.9,144.9,2026-03-29,18:47,Ewallet,138.0,4.761904762,6.9,9.8
+INV-100596,B,Mandalay,Member,Female,Sports and travel,64.1,3,9.615,201.915,2026-03-29,20:02,Cash,192.3,4.761904762,9.615,8.7
+INV-100003,B,Mandalay,Normal,Female,Sports and travel,21.28,8,8.512,178.752,2026-03-29,10:12,Credit card,170.24,4.761904762,8.512,7.0
+INV-100151,A,Yangon,Normal,Female,Home and lifestyle,29.89,2,2.989,62.769,2026-03-29,16:03,Ewallet,59.78,4.761904762,2.989,9.7
